@@ -23,6 +23,6 @@
 
 ## [N-Prize](https://codepen.io/Teeke/pen/rNvrgYy)
 
-## Rule of Three
+## [Rule of Three](https://www.youtube.com/playlist?list=PLlOx95m4hh_-hooR3te9WUd_teeTHdKE3)
 
 Aims
