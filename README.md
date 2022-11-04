@@ -13,7 +13,7 @@
 
 ## [Github Skills](https://www.youtube.com/playlist?list=PLlOx95m4hh_84EOOdJeBLR1XM4MXICnB8)
 
-## Open Source Apps
+## [Open Source Apps](https://codepen.io/collection/GoZjQW)
 
 ## [Drums](https://www.youtube.com/playlist?list=PLlOx95m4hh__VQy-PTkFvafMyAl1jom42) 
 
@@ -23,7 +23,8 @@
 
 ## Duck Farm
 
-## N-Prize
+## [N-Prize](https://codepen.io/Teeke/pen/rNvrgYy)
 
 ## Rule of Three
-\Aims
+
+Aims
