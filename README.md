@@ -1,4 +1,9 @@
-# X
+<h1 "align="center"> 
+  X
+</h1>
+<p align="center">
+  <img src="https://i.imgur.com/rw9rqgd.jpeg">
+  </p>
 
 ## Yoga I
 
@@ -18,3 +23,6 @@
 
 ## Duck Farm
 
+## N-Prize
+
+## Rule of Three
