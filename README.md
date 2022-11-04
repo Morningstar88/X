@@ -9,7 +9,7 @@
 
 ## Yoga II
 
-## Fund-raising Templates
+## [Fund-raising Templates](https://github.com/Microflow/X/blob/main/X2/FundraisingTemplates.md)
 
 ## [Github Skills](https://www.youtube.com/playlist?list=PLlOx95m4hh_84EOOdJeBLR1XM4MXICnB8)
 
