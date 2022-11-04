@@ -15,11 +15,11 @@
 
 ## [Drums](https://www.youtube.com/playlist?list=PLlOx95m4hh__VQy-PTkFvafMyAl1jom42) 
 
-## Hidden Medicine
+## [Hidden Medicine](https://www.youtube.com/watch?v=OcGulhnZDzM)
 
 ## [Salt Battery](https://github.com/Microflow/Salt-Water-Battery)
 
-## Duck Farm
+## [Duck Farm](https://www.indiegogo.com/projects/help-save-the-uk-s-only-organic-duck-egg-farm#/)
 
 ## [N-Prize](https://codepen.io/Teeke/pen/rNvrgYy)
 
