@@ -11,7 +11,7 @@
 
 ## Fund-raising Templates
 
-## Github Basics
+## [Github Skills](https://www.youtube.com/playlist?list=PLlOx95m4hh_84EOOdJeBLR1XM4MXICnB8)
 
 ## Open Source Apps
 
