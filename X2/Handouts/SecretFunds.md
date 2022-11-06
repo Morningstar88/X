@@ -1,4 +1,6 @@
-#
+# Secret Foundations
+
+## [Printable Version](https://docs.google.com/document/d/1BK2_l6_fyYJUigEiGLfjJ781S7GP-TAyqaecurI0v7c/edit)
 
 We are trying to make contact with secret finance foundations that exist in Asia, Europe, and elsewhere. They have billion dollar funds 
 that can be used to clean the environment, provide well paid work for Taiwanese people, and build new towns. 
