@@ -8,5 +8,9 @@
 
 # Giphy
 
-### [You can find good gifs on Giphy]
+### [You can find good gifs on Giphy](https://www.giphy.com)
+
+# Imgur
+
+### [Imgure hosts many pictures and gifs](https://imgur.com)
 
