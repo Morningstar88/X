@@ -2,7 +2,7 @@
   X
 </h1>
 <p align="center">
-  <img height="350" width="350"  src="https://i.imgur.com/rw9rqgd.jpeg">
+  <img height="350" src="https://i.imgur.com/rw9rqgd.jpeg">
   </p>
 
 ## [Yoga I](https://www.youtube.com/playlist?list=PLlOx95m4hh_8x7HAhzzRPj_7_QdszZ3Fp)
