@@ -27,5 +27,5 @@
 
 
 <p align="center">
-  <img height="350" width="350"  src="https://media.giphy.com/media/4YA8V9GRHQFnLqShp4/giphy.gif">
+  <img height="250" src="https://media.giphy.com/media/4YA8V9GRHQFnLqShp4/giphy.gif">
   </p>
