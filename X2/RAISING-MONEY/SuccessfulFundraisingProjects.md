@@ -2,7 +2,7 @@
 
 ## Successful Projects
 
-[12,000. Innovation Thailand](https://startsomegood.com/innovationthailand)
+[Innovation Thailand. Successfully raised 12,000 on StartSomeGood. ](https://startsomegood.com/innovationthailand)
 
 What did they do well?
 
