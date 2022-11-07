@@ -25,6 +25,17 @@
 
 **Live:** https://codepen.io/Teeke/live/WNyrJEV
 
+### [https://codepen.io/Teeke/pen/moNPxX](Hyperloop)
+
+**Description**: Learn Languages. Make friends. Best Looper on the Market*. 
+
+**Status** Design Atrocious. Needs to be minimized. Revert buttons to English. Simplify, simplify, simplify. Gif behind knockout txt?
+
+**Deployable** Not yet, may close source. 
+
+**Live:** https://codepen.io/Teeke/live/moNPxX
+
+
 ### [Kalki New Stable Backup](https://codepen.io/Teeke/pen/zYaBBJQ)
 
 **Status:** Reddit code not importing correctly. Do more unit tests and ask Stack Overflow. 
