@@ -56,11 +56,11 @@ Add fundraising carousel at base?
 
 ### [Kingmaker](https://codepen.io/Teeke/pen/GRGjwzZ?editors=1010)
 
-**Status:** Design average. Need to fix project card display, improve buttons.
+**Status:** Just about works. Design average. Need to import music component. 
 
-**Deployable:** Not yet. Still in Three Windows. 
+**Deployable:** Yes.
 
-**Live**: https://codepen.io/Teeke/pen/BaVjxwE
+**Live**: https://codepen.io/Teeke/pen/GRGjwzZ?
 
 ## To Make Your Own Website and Deploy it for Free
 
