@@ -1,4 +1,4 @@
-<h1>Create a Responsive Web App in 30 mins</h1>
+<h1 align="center">Create a Responsive Web App in 30 mins</h1>
 
 <p align="center" https://i.imgur.com/HdXNU9o.png>
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
@@ -8,6 +8,20 @@
 
 - The following Web Apps can Be Copied in One Click. 
 - We put all the HTML, CSS and JS in one block. This makes it easier for beginner users, and slightly harder for developers. 
+
+## Main Apps in Development Right Now
+
+<p align="center">
+<img src="https://i.imgur.com/nPypyxg.png">
+</p>
+
+### [Kalki New Stable Backup](https://codepen.io/Teeke/pen/zYaBBJQ)
+
+**Status:** Reddit code not importing correctly. Do more unit tests and ask Stack Overflow. 
+
+**Deployable:** 95%. Scroll function not merged into main doc. 
+
+**Live:** https://codepen.io/Teeke/live/zYaBBJQ
 
 ## To Make Your Own Website and Deploy it for Free
 
