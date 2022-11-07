@@ -12,7 +12,7 @@
 ## Main Apps in Development Right Now
 
 <p align="center">
-<img src="https://i.imgur.com/nPypyxg.png">
+<img width="500" src="https://i.imgur.com/nPypyxg.png">
 </p>
 
 ### [Kalki New Stable Backup](https://codepen.io/Teeke/pen/zYaBBJQ)
