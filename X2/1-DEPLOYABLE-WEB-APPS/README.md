@@ -1,9 +1,27 @@
+<h1>Create a Responsive Web App in 30 mins</h1>
+
+<p align="center" https://i.imgur.com/HdXNU9o.png>
+<img height= "500" src="https://i.imgur.com/HdXNU9o.png">
+</p>
+
 ## One Click Copy and Deploy
 
-The following Web Apps can Be Copied in One Click
+- The following Web Apps can Be Copied in One Click. 
+- We put all the HTML, CSS and JS in one block. This makes it easier for beginner users, and slightly harder for developers. 
+
+## To Make Your Own Website and Deploy it for Free
+
+- Choose a design, change the words and pics to your liking. Get new pics from [pexels](https://www.pexels.com)
+- Create accounts on Github, Vercel, and (maybe) Reddit. 
+
+## Why Github, Vercel and Reddit?
+
+### *Signing up for three sites might be a hassle, but the benefits are many:*
+
+1. You can create and deploy sites very quickly. 
+2. If someone likes your project, they can copy it in one click. If you like another project, you can make a copy. 
+3. Github and Reddit already have large communities of developers and creative people. They may assist with your project. 
+
+#### *If you are looking to raise your first 100, 300, 500 pounds and beyond... we will do our best to draw attention to your project, and get you on the funding ladder.* 
 
 
-
-## MAIN
-
-## OTHERS
