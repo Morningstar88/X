@@ -4,12 +4,12 @@
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
 </p>
 
-## One Click Copy and Deploy
+<h1 align="center"> One Click Copy and Deploy</h1>
 
 - The following Web Apps can Be Copied in One Click. 
 - We put all the HTML, CSS and JS in one block. This makes it easier for beginner users, and slightly harder for developers. 
 
-## Main Apps in Development Right Now
+<h1 align="center">Main Apps in Development Right Now</h1>
 
 <p align="center">
 <img width="500" src="https://i.imgur.com/nPypyxg.png">
@@ -22,6 +22,14 @@
 **Deployable:** 95%. Scroll function not merged into main doc. 
 
 **Live:** https://codepen.io/Teeke/live/zYaBBJQ
+
+### [Reddit Stable 3 subs](https://codepen.io/Teeke/pen/BaVjxwE)
+
+**Status:** Design average. Need to fix project card display, improve buttons.
+
+**Deployable:** Not yet. Still in Three Windows. 
+
+**Live**: https://codepen.io/Teeke/pen/BaVjxwE
 
 ## To Make Your Own Website and Deploy it for Free
 
