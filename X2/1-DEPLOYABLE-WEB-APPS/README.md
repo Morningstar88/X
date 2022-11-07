@@ -15,6 +15,16 @@
 <img width="500" src="https://i.imgur.com/nPypyxg.png">
 </p>
 
+### [LargePicDisplay](https://codepen.io/Teeke/pen/WNyrJEV)
+
+**Description**: This app displays large pics from Reddit. it can be used to display any pic you desire. Fundraising, gifs, dacing, memenews, health information, music. *The only limit is your imagination*. We're currently building some example apps. 
+
+**Status** Large pics displaying fine. Buttons design and colors need improving.
+
+**Deployable** Not yet, but should be easy to do. Import Devero navbar code, or leave as standalone?.
+
+**Live:** https://codepen.io/Teeke/live/WNyrJEV
+
 ### [Kalki New Stable Backup](https://codepen.io/Teeke/pen/zYaBBJQ)
 
 **Status:** Reddit code not importing correctly. Do more unit tests and ask Stack Overflow. 
