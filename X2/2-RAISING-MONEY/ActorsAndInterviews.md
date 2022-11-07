@@ -12,7 +12,7 @@ Choose script (pics) Yoga/Rescue
 Show Xiangshui, Opinions on different types.  
 Sub Pose
 Opinions Lucy clothes. 
-KNG BANAN./RSCUE/PRIN/KIDNAP. Ask beforehand.
+KNG BANAN./RSCUE/PRIN/MSYGIRL. Ask beforehand.
 Interview (they choose questions, wide array): Massage
 MDNGHTCHINESE
 
