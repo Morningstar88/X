@@ -9,6 +9,15 @@ Order:
 
 Meet.
 Choose script (pics) Yoga/Rescue
-Show Xiangshui
+Show Xiangshui, Opinions on different types.  
 Sub Pose
+Opinions Lucy clothes. 
+KNG BANAN./RSCUE/PRIN/KIDNAP. Ask beforehand.
 Interview (they choose questions, wide array): Massage
+MDNGHTCHINESE
+
+# MRT
+
+Character on Boot.
+Too bright. Is there a switch?
+Where buy shoes. 
