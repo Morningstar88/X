@@ -31,6 +31,8 @@
 
 **Status** Design Atrocious. Needs to be minimized. Revert buttons to English. Simplify, simplify, simplify. Gif behind knockout txt?
 
+Add fundraising carousel at base?
+
 **Deployable** Not yet, may close source. 
 
 **Live:** https://codepen.io/Teeke/live/XWYjyRE
