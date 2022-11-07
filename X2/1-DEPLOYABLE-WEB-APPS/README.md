@@ -25,7 +25,7 @@
 
 **Live:** https://codepen.io/Teeke/live/WNyrJEV
 
-### [https://codepen.io/Teeke/pen/moNPxX](Hyperloop)
+### [https://codepen.io/Teeke/pen/XWYjyRE](Hyperloop)
 
 **Description**: Learn Languages. Make friends. Best Looper on the Market*. 
 
@@ -33,7 +33,7 @@
 
 **Deployable** Not yet, may close source. 
 
-**Live:** https://codepen.io/Teeke/live/moNPxX
+**Live:** https://codepen.io/Teeke/live/XWYjyRE
 
 
 ### [Kalki New Stable Backup](https://codepen.io/Teeke/pen/zYaBBJQ)
