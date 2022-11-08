@@ -15,6 +15,18 @@
 <img width="500" src="https://i.imgur.com/nPypyxg.png">
 </p>
 
+## [Beautiful TikTok Showcase](https://codepen.io/Teeke/pen/dyKOZyj)
+## [BeautifulTiktokTaiwanese](https://codepen.io/Teeke/pen/BaQRKNe)
+
+**Status:** 
+
+**Deployable:** No.
+
+**Live**: https://codepen.io/Teeke/pen/BaQRKNe?
+
+**Todo**: 1) Get design looking good. 2) Two buttons/links: Learn Taiwanese/Chinese + Raise Money. 3) Former links to #LearnTaiwaneseNow hashtag | Latter leads to perosn talking about their dream job, and their Patreon. T
+
+
 ### [LargePicDisplay](https://codepen.io/Teeke/pen/WNyrJEV)
 
 **Description**: This app displays large pics from Reddit. it can be used to display any pic you desire. Fundraising, gifs, dacing, memenews, health information, music. *The only limit is your imagination*. We're currently building some example apps. 
@@ -85,15 +97,6 @@ Add fundraising carousel at base?
 **Deployable:** No.
 
 **Live**: https://codepen.io/Teeke/pen/LYdRxXR?
-
-## [TikTokHashtagLink](https://codepen.io/Teeke/pen/BaQRKNe)
-
-**Status:** Concept works but design sucks. 
-
-**Deployable:** No.
-
-**Live**: https://codepen.io/Teeke/pen/BaQRKNe?
-
 
 ## All of these apps can be used to raise money. If you deploy on Vercel, running costs are zero. 
 
