@@ -23,7 +23,7 @@
 
 **Live**: https://catgirl-tau.vercel.app
 
-**Todo**: 10 Change domain name. 2) Update carousel photos. 3) Choose individual hashtag and populate it with 10 vids. 4) Get 1 Patreon up to prove job concept. 
+**Todo**: 10 Change domain name. 2) Update carousel photos. 3) Choose individual hashtag and populate it with 10 vids. 4) Get 1 Patreon up to prove job concept. 5) Put screengrabs on Readme.  
 
 **Github**: https://github.com/Microflow/Catgirl/tree/main
 
