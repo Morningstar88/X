@@ -23,7 +23,15 @@
 
 ## Next Meeting
 
+Listen First
+https://www.youtube.com/watch?v=UkxZBWP7qC8
+
 Digi Products
 Street Intervfiews, make handout
 Mones
+Make ad together
+Rescue Princess pics
 Brainstorm a competition for street interviews. 
+Fun Taipei
+Get cam!
+Get cam fixed!
