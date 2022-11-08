@@ -78,6 +78,17 @@ Add fundraising carousel at base?
 
 **Live**: https://codepen.io/Teeke/pen/qBxGXBV?
 
+## [House of Lucy](https://codepen.io/Teeke/pen/LYdRxXR)
+
+**Status:** Works, Design Average. Needs Devero Template 
+
+**Deployable:** No.
+
+**Live**: https://codepen.io/Teeke/pen/LYdRxXR?
+
+## All of these apps can be used to raise money. If you deploy on Vercel, running costs are zero. 
+
+
 ## To Make Your Own Website and Deploy it for Free
 
 - Choose a design, change the words and pics to your liking. Get new pics from [pexels](https://www.pexels.com)
