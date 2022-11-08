@@ -70,6 +70,14 @@ Add fundraising carousel at base?
 
 **Live**: https://codepen.io/Teeke/pen/GRGjwzZ?
 
+## [ChiChiDrums](https://codepen.io/Teeke/pen/qBxGXBV)
+
+**Status:** Works, Looks Good. 
+
+**Deployable:** Yes?.
+
+**Live**: https://codepen.io/Teeke/pen/qBxGXBV?
+
 ## To Make Your Own Website and Deploy it for Free
 
 - Choose a design, change the words and pics to your liking. Get new pics from [pexels](https://www.pexels.com)
