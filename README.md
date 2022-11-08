@@ -15,17 +15,17 @@
 <img width="500" src="https://i.imgur.com/nPypyxg.png">
 </p>
 
-## [Beautiful TikTok Showcase](https://codepen.io/Teeke/pen/dyKOZyj)
-## [BeautifulTiktokTaiwanese](https://codepen.io/Teeke/pen/BaQRKNe)
+## [Catgirl Tiktok](https://codepen.io/Teeke/pen/jOKVezg)
 
-**Status:** 
+**Status:** Built. Looks Alright. Text small on mobile.  
 
-**Deployable:** No.
+**Deployable:** Yes.
 
-**Live**: https://codepen.io/Teeke/pen/BaQRKNe?
+**Live**: https://catgirl-tau.vercel.app
 
-**Todo**: 1) Get design looking good. 2) Two buttons/links: Learn Taiwanese/Chinese + Raise Money. 3) Former links to #LearnTaiwaneseNow hashtag | Latter leads to perosn talking about their dream job, and their Patreon. T
+**Todo**: 10 Change domain name. 2) Update carousel photos. 3) Choose individual hashtag and populate it with 10 vids. 4) Get 1 Patreon up to prove job concept. 
 
+**Github**: https://github.com/Microflow/Catgirl/tree/main
 
 ### [LargePicDisplay](https://codepen.io/Teeke/pen/WNyrJEV)
 
