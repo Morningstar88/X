@@ -21,17 +21,29 @@
 
 ## Set up FB page. 
 
-## Next Meeting
+## Next Meeting Owen
+
+Watch Discuss Charles
+https://www.itv.com/news/calendar/2022-11-09/eggs-thrown-at-king-on-visit-to-york
 
 Listen First
 https://www.youtube.com/watch?v=UkxZBWP7qC8
 
-Digi Products
-Street Intervfiews, make handout
-Mones
-Make ad together
-Rescue Princess pics
-Brainstorm a competition for street interviews. 
-Fun Taipei
-Get cam!
-Get cam fixed!
+How I learn Chinese
+https://youtu.be/qP_ihrfU6wQ?list=PLlOx95m4hh_8Cz5zNopSi5ImPrX63H17I
+
+## Go Through Each Item Quickly, Overview. 5 minutes each. 
+
+Owen/whoever lead the meeting. Clone, open this doc, take notes and send me a pull request. 
+
+- Check catgirl app
+- Brainstorm Digi Products
+- Street Intervfiews, make handout
+- Mones
+- PRI Make ad together
+- PRI - Start writing Zeczec or Patreon?
+- #RescueThePrincess pics
+- Brainstorm a competition for street interviews. 
+- Fun Taipei
+- PRI Get cam!
+- Get cam fixed!
