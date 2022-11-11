@@ -12,6 +12,10 @@
 
 We will help you build two sites: A presentation page, and a Patreon, to raise money. When building the presenation page, you will learn HTML basics. With Patreon and ZecZec, you can learn fundraising.
 
+<p align="center">
+<img src="https://github.com/Microflow/X/blob/main/catgirl-template.png">
+</p>
+
 We are actively talking to coporations, churches, temples, and other donors. We will help you promote your site. 
 
 A list of our sites is here. We are constantly promoting this page. If you use our system, we will help you get noticed. 
