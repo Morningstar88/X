@@ -4,6 +4,20 @@
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
 </p>
 
+<h1 align="center"> X Framework: Aims</h1>
+
+- Help people raise their first 1,000, 10,000 and 50,000 TWD. Get them started on the microfinance ladder.
+- Teach HTML, CSS and JS bascis, the allow people to set up beautiful open source websites, fast, and for free.
+- Use open source software methodologies, which allows a project to scale quickly and rapidly.
+
+We will help you build two sites: A presentation page, and a Patreon, to raise money. When building the presenation page, you will learn HTML basics. With Patreon and ZecZec, you can learn fundraising.
+
+We are actively talking to coporations, churches, temples, and other donors. We will help you promote your site. 
+
+A list of our sites is here. We are constantly promoting this page. If you use our system, we will help you get noticed. 
+
+## Why not just set up a Patreon?
+
 <h1 align="center"> One Click Copy and Deploy</h1>
 
 - The following Web Apps can Be Copied in One Click. 
