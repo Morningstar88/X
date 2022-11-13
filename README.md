@@ -10,15 +10,13 @@
 - [Give away free, easy-to-edit, open source designs](https://codepen.io/collection/GoZjQW). Teach HTML, CSS and JS basics, that allow people to set up beautiful open source websites, fast, and for free.
 - Use open source software methodologies, which allows a project to scale quickly and rapidly.
 
-We will help you build two sites: A presentation page, and a Patreon, to raise money. When building the presenation page, you will learn HTML basics. With Patreon and ZecZec, you can learn fundraising.
+We will help you build two sites: A presentation page, and a Patreon, to raise money. When building the presenation page, you will learn HTML basics. With Patreon and ZecZec, you can learn fundraising. We will also help you make TikToks and youtubes which will help people find your channel. If you make a 30 second video, we can show it to donors. 
 
 <p align="center">
 <img src="https://github.com/Microflow/X/blob/main/catgirl-template.png">
 </p>
 
-We are actively talking to coporations, churches, temples, and other donors. We will help you promote your site. 
-
-A list of our sites is here. We are constantly promoting this page. If you use our system, we will help you get noticed. 
+We are actively talking to coporations, churches, temples, and other donors. We'll help you promote your site. We are constantly [promoting our showcase page](https://codepen.io/Teeke/pen/PoamXjY). If you use our system, we'll do our best to help you get noticed. 
 
 ## Why not just set up a Patreon?
 
