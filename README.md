@@ -1,4 +1,4 @@
-<h1 align="center">Free: Create a Responsive Web App in 30 mins</h1>
+<h1 align="center">Free: Raise money. Create a Responsive Web App in 30 mins</h1>
 
 <p align="center" https://i.imgur.com/HdXNU9o.png>
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
@@ -11,6 +11,8 @@
 - Use open source software methodologies, which allows a project to scale quickly and rapidly.
 
 We will help you build two sites: A presentation page, and a Patreon, to raise money. When building the presenation page, you will learn HTML basics. With Patreon and ZecZec, you can learn fundraising. We will also help you make TikToks and youtubes which will help people find your channel. If you make a 30 second video, we can show it to donors. 
+
+# [PLease check out our latest experiment. Localized, Open Source, Presentation Pages](https://github.com/Microflow/X/blob/main/NEW-Presentation-Page.md)
 
 <p align="center">
 <img src="https://github.com/Microflow/X/blob/main/catgirl-template.png">
