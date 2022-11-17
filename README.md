@@ -1,4 +1,4 @@
-<h1 align="center">Free: Raise money. Create a Responsive Web App in 30 mins</h1>
+<h1 align="center">Raise money. Create a Responsive Web App in 30 mins. Free and Open Source</h1>
 
 <p align="center" https://i.imgur.com/HdXNU9o.png>
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
@@ -6,11 +6,9 @@
 
 <h1 align="center"> X Framework: Aims</h1>
 
-- #### Help people raise their first 1,000, 10,000 and 50,000 TWD on Patreon, ZezZec, or Red Turtle. Get them started on the microfinance ladder.
-- [Give away free, easy-to-edit, open source designs](https://codepen.io/collection/GoZjQW). Teach HTML, CSS and JS basics, that allow people to set up beautiful open source websites, fast, and for free.
-- Use open source software methodologies, which allows a project to scale quickly and rapidly.
-
-We will help you build two sites: A presentation page, and a Patreon, to raise money. When building the presenation page, you will learn HTML basics. With Patreon and ZecZec, you can learn fundraising. We will also help you make TikToks and youtubes which will help people find your channel. If you make a 30 second video, we can show it to donors. 
+- #### We can help you raise your first 1,000, 10,000 and 50,000 TWD on Patreon, ZezZec, or Red Turtle. Get started on the microfinance ladder.
+- [Check out our free, easy-to-edit, open source designs](https://codepen.io/collection/GoZjQW). Learn HTML, CSS and JS basics. Set up a beautiful open source website, fast, and for free. In the open source world, you can share ideas and projects. 
+- Learn basic marketing and promotion on TikTok, Youtube, and other platforms. If you make a 30 second video, we can show it to donors on our local stock market page. 
 
 # [PLease check out our latest experiment. Localized, Open Source, Presentation Pages](https://github.com/Microflow/X/blob/main/NEW-Presentation-Page.md)
 
