@@ -1,4 +1,4 @@
-# [ChenXing Taipei](https://codepen.io/Teeke/pen/jOKLpqK)
+# [XinXing Taipei Microfinance Ticker](https://codepen.io/Teeke/pen/QWxORvw)
 
 ## [3 popups With Hover](https://codepen.io/Teeke/pen/jOKmoje?editors=1100)
 
