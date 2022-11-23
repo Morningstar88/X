@@ -1,120 +1,121 @@
+<!-- 
+
+Infinite phro grid height: 195
+
+-->
+
 <!DOCTYPE html>
 <html>
-  
+
 <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>    
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <style>
-    /* Change height of ticker 
+    /* Change 
+    of ticker 
 around line 80 .container
 */
+    @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
-
-body {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  flex-wrap: wrap;
-  font-family: 'Josefin Sans' !important;
-  width: 100vw;
-  height: 300vh;
-  font-family: 'Josefin Sans', sans-serif;
-background-color: #eff;
-letter-spacing: -1px;
-font-weight: 300;
-}
+    body {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      flex-wrap: wrap;
+      font-family: 'Josefin Sans' !important;
+      width: 100vw;
+      height: 300vh;
+      /*ORIG 300Vh*/
+      font-family: 'Josefin Sans', sans-serif;
+      background-color: #fff;
+      letter-spacing: -1px;
+      font-weight: 300;
+    }
 
     .responsive-container {
       margin-top: 10px;
-    }    
-    
-.first-letter-x {
-  font-size: 35px;
-}
+    }
 
-    .name-link {
-      
-    } 
-    
+    .first-letter-x {
+      font-size: 35px;
+    }
+
+    .name-link {}
+
     .name-link:hover {
       color: #181;
-    } 
-    
-     .name-link:visited {
+    }
+
+    .name-link:visited {
       color: #114;
-     } 
-    
-     .name-link:active {
+    }
+
+    .name-link:active {
       color: purple;
-    } 
-    
-    
-    .project-link {
-      
-    } 
-    
+    }
+
+    .project-link {}
+
     .project-link:hover {
       color: #181;
-    } 
-    
-     .project-link:visited {
+    }
+
+    .project-link:visited {
       color: #114;
-     } 
-    
-     .project-link:active {
+    }
+
+    .project-link:active {
       color: purple;
-    } 
-    
-/* Ticker*/
+    }
 
-img {opacity: 0.6;
-    border-radius: 12px 1px 12px 1px;
-  width: 28px;
-} 
+    /* Ticker*/
+    img {
+      opacity: 0.7;
+      border-radius: 12px 1px 12px 1px;
+      width: 28px;
+    }
 
-a {
-  text-decoration: none;
-  color:#fefefe;
-}
+    a {
+      text-decoration: none;
+      color: #fefefe;
+    }
 
-a:hover {
-  text-decoration: underline;
-}
+    a:hover {
+      text-decoration: underline;
+    }
 
-    
-    
-#ticker {
-letter-spacing: -2px; 
-width: 20px;
-  margin-top: -13px;
-  /* Minus 15 pushes up a little. 15 pushes down a little.*/
-}
+    #ticker {
+      letter-spacing: -2px;
+      width: 20px;
+      margin-top: -13px;
+      /* Minus 15 pushes up a little. 15 pushes down a little.*/
+    }
 
-div#examplePage {
-    color: #ddd;
-    text-align: left;
-    width: 760px; /*ORIG: 760px*/
-    margin: 0 auto;
-    padding: 0;
-}
- 
-.app-name {
-    font-size: 4.31em;
-    font-weight: bold;  
-    color: #444;
-  margin-top: 200px;
+    div#examplePage {
+      color: #ddd;
+      text-align: left;
+      width: 760px;
+      /*ORIG: 760px*/
+      margin: 0 auto;
+      padding: 0;
+    }
 
-}
- 
-div#example {
-    background: url('') none repeat-x scroll left top; 
-    width: 780px;
-    margin: 0px 0 0px;
-}
- /*
+    .app-name {
+      font-size: 4.31em;
+      font-weight: bold;
+      color: #444;
+      margin-top: 200px;
+    }
+
+    div#example {
+      background: url('') none repeat-x scroll left top;
+      width: 780px;
+      margin: 0px 0 0px;
+    }
+
+    /*
 div#example h3 {
     font-size: 1.1em;
     font-style: italic;
@@ -123,395 +124,445 @@ div#example h3 {
     line-height: 4px;
   background: url('');
 } */
- 
-/*Ticker container*/
-.container {
-  /* Change Pic here */
-/*      background: url('https://assets.codepen.io/577362/white+hallway'); */
-   /* ALT PICS: https://assets.codepen.io/577362/White-Background.jpg */
-/*     border: 1px solid #fcfcfc; */
-    height: 75px; /*Change height of ticker here */
-    margin: 0 auto;
-    width: 1400px;
-}
- 
-.container .wrap {
-    width: 1400px;
-    left: 10px;
-    top: 10px;
-    overflow: hidden;
-    position: relative;
-    line-height: 52px;
-    font-size-adjust: none;
-}
- 
-/**
+    /*Ticker container*/
+    .container {
+      /* Change Pic here */
+      /*      background: url('https://assets.codepen.io/577362/white+hallway'); */
+      /* ALT PICS: https://assets.codepen.io/577362/White-Background.jpg */
+      /*     border: 1px solid #fcfcfc; */
+      height: 75px;
+      /*Change height of ticker here */
+      margin: 0 auto;
+      width: 1400px;
+    }
+
+    .container .wrap {
+      width: 1400px;
+      /*ORIG 1400px*/
+      left: 10px;
+      top: 10px;
+      overflow: hidden;
+      position: relative;
+      line-height: 52px;
+      font-size-adjust: none;
+    }
+
+    /**
  * Stock Ticker styling
  */
-.stockTicker {
-  /* Adjust font size here */
-    font-family: Josefin Sans;
-    font-size: 1.8em;
-    list-style-type: none;
-  text-shadow: 0 0 1px #777;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    list-style: none;
-}
-
-.stockTicker li,
-.stockTicker span {
-    margin: 0 10px 0;
-    display: inline-block;
-}
- 
-.stockTicker .up {
-    color: #333;
-    padding-left: 2px;
-}
- 
-.stockTicker .down {
-    color: #030303;
-    margin: 0;
-    padding-left: 10px;
-}
- 
-.stockTicker .eq {
-    margin: 0;
-    padding-left: 10px;
-}
- 
-div.stockTicker .quote {
-    margin: 0;
-    font-weight: bold;
-    color: #135;
-    padding-left: 10px;
-    letter-spacing: -3px;
-}
- 
-
-
-/* End Ticker*/
-
-.three-project-container {
-  position: fixed;
-  top: 100px;}
-
-
-.infinite-photo-grid {
-  width: 100%;
-  height: 60%; /*Change this value to move everyuthing down*/
-  max-height:1250px;
-  background-image: url(https://raw.githubusercontent.com/s1mpson/-/master/codepen/infinite-photo-grid/photo-grid.jpg);
-  background-size: calc(4.84 * min(1000vh, 750px)) min(1000vh, 750px);
-  /* Increasing pixel value makes picture bigger */
-  background-repeat: repeat-x;
-  animation: scroll 50s linear infinite;
-  will-change: background-position;
-}
-
-@keyframes scroll {
-  from {
-    background-position: left calc(4.84 * min(100vh, 750px)) top 100px; /*ORIG: top 0px / This moves carousel down*/
-  }
-  to {
-    background-position: left 0px top 0px; /*ORIG 0px - No discernable effect. Leave at 0px? */
-  }
-}
-
-/*TRY IMPORT POPOVER*/
-
-
-a {
-  text-decoration: none;
-  color:#222;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.container {
-  display: flex;
-  flex-flow: row wrap;  
-}
-.main-nav-btn {
-  background: #111;
-  padding: 5px;
-  border-radius: 0 20px 0 20px;
-  line-height: 150px;
-  color: white;
-  font-weight: bold;
-  font-size: 3em;
-  text-align: center;
-  width: 150px;
-  height: 150px;
-  margin: 20px;
-  box-shadow: 5px 5px 5px #bbb;
-}
-
-#navBtn1 {
-  background: url('https://assets.codepen.io/577362/Pink-Catgirl-Donuts-Doughnuts.jpg');
-  background-size: 105%;
-}
-
-#navBtn2 {
-  background: url('https://assets.codepen.io/577362/mysterious-girl.jpeg');
-  background-size: 160%;
-}
-
-#navBtn3 {
-  background: url('https://assets.codepen.io/577362/boxer-girl.jpeg');
-  background-size: 105%;
-}
-
-
-.popover, .popover-title, .popover-content {
-  background-color: #fff;
-  font-family: 'Josefin Sans';
-  font-size: 1.2em;
-  padding: 13px;
-}
-.popover-title {
-  border: none;
-  font-size:1.7em;
-  font-weight: bold;
-  letter-spacing: -2px;
-  color: #555;
-  font-variant: italic;
-
-}
-  </style>
-  
-  <script>
-  
-    $(function () {
-  $('[data-toggle="popover"]').popover(
-    {
-      title: getPopoverTitle,
-      content: getPopoverContent
+    .stockTicker {
+      /* Adjust font size here */
+      font-family: Josefin Sans;
+      font-size: 1.8em;
+      list-style-type: none;
+      text-shadow: 0 0 1px #777;
+      margin: 0;
+      padding: 0;
+      position: relative;
+      list-style: none;
     }
-  );
-});
 
-function getPopoverTitle() {
-  return 'Popover Title for ' + this.id;
-}
+    .stockTicker li,
+    .stockTicker span {
+      margin: 0 10px 0;
+      display: inline-block;
+    }
 
-function getPopoverContent() {
-  return 'Popover Content for ' + this.id + ' with data id = ' + $(this).data('id');
-}
+    .stockTicker .up {
+      color: #333;
+      padding-left: 2px;
+    }
 
-    
-  </script>
-  
-    <script>
-     $(function() {
-        $("#ticker").csTicker({interval: 45});
-        $("#csTicker").csTicker({speed: 1});
+    .stockTicker .down {
+      color: #030303;
+      margin: 0;
+      padding-left: 10px;
+    }
+
+    .stockTicker .eq {
+      margin: 0;
+      padding-left: 10px;
+    }
+
+    div.stockTicker .quote {
+      margin: 0;
+      font-weight: bold;
+      color: #135;
+      padding-left: 10px;
+      letter-spacing: -3px;
+    }
+
+    /* End Ticker*/
+    .three-project-container {
+      position: fixed;
+      top: 100px;
+    }
+
+    .infinite-photo-grid {
+      width: 100%;
+      height: 100%;
+      /*Lowering this value  moves everyuthing down??? */
+      max-height: 1250px;
+      background-image: url(https://raw.githubusercontent.com/s1mpson/-/master/codepen/infinite-photo-grid/photo-grid.jpg);
+      background-size: calc(4.84 * min(1000vh, 750px)) min(1000vh, 750px);
+      /* Increasing pixel value makes picture bigger */
+      background-repeat: repeat-x;
+      animation: scroll 50s linear infinite;
+      will-change: background-position;
+    }
+
+    @keyframes scroll {
+      from {
+        background-position: left calc(4.84 * min(100vh, 750px)) top 100px;
+        /*ORIG: top 0px / This moves carousel down*/
+      }
+
+      to {
+        background-position: left 0px top 0px;
+        /*ORIG 0px - No discernable effect. Leave at 0px? */
+      }
+    }
+
+    /*TRY IMPORT POPOVER*/
+    a {
+      text-decoration: none;
+      color: #222;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      display: flex;
+      flex-flow: row wrap;
+    }
+
+    .main-nav-btn {
+      background: #111;
+      padding: 5px;
+      border-radius: 0 20px 0 20px;
+      line-height: 150px;
+      color: white;
+      font-weight: bold;
+      font-size: 3em;
+      text-align: center;
+      width: 150px;
+      height: 150px;
+      margin: 20px;
+      box-shadow: 5px 5px 5px #bbb;
+    }
+
+    #navBtn1 {
+      background: url('https://assets.codepen.io/577362/Pink-Catgirl-Donuts-Doughnuts.jpg');
+      background-size: 105%;
+    }
+
+    #navBtn2 {
+      background: url('https://assets.codepen.io/577362/mysterious-girl.jpeg');
+      background-size: 160%;
+    }
+
+    #navBtn3 {
+      background: url('https://assets.codepen.io/577362/boxer-girl.jpeg');
+      background-size: 105%;
+    }
+
+    .popover,
+    .popover-title,
+    .popover-content {
+      background-color: #fff;
+      font-family: 'Josefin Sans';
+      font-size: 1.2em;
+      padding: 13px;
+    }
+
+    .popover-title {
+      border: none;
+      font-size: 1.7em;
+      font-weight: bold;
+      letter-spacing: -2px;
+      color: #555;
+      font-variant: italic;
+    }
+
+    .container-dark {
+      width: 100%;
+      background-color: #020202;
+    }
+
+    .footer {
+      background-color: #020202;
+      width: 100%;
+    }
+
+    .one-ring-to-rule-em-all {
+      height: 300px;
+      width: auto;
+    }
+  </style>
+
+  <script>
+    $(function() {
+      $('[data-toggle="popover"]').popover({
+        title: getPopoverTitle,
+        content: getPopoverContent
+      });
     });
 
+    function getPopoverTitle() {
+      return 'Popover Title for ' + this.id;
+    }
 
-( function($) {
- 
-    $.fn.csTicker = function(options) {
- 
-        if (typeof (options) == 'undefined') {
-            options = {};
+    function getPopoverContent() {
+      return 'Popover Content for ' + this.id + ' with data id = ' + $(this).data('id');
+    }
+  </script>
+
+  <script>
+    $(function() {
+      $("#ticker").csTicker({
+        interval: 45
+      });
+      $("#csTicker").csTicker({
+        speed: 1
+      });
+    });
+    (function($) {
+      $.fn.csTicker = function(options) {
+        if (typeof(options) == 'undefined') {
+          options = {};
         }
- 
-        var settings = $.extend( {}, $.fn.csTicker.defaults, options);
- 
+        var settings = $.extend({}, $.fn.csTicker.defaults, options);
         var $ticker = $(this);
- 
         settings.tickerID = $ticker[0].id;
- 
         $.fn.csTicker.settings[settings.tickerID] = {};
- 
         var $wrap = null;
- 
-        if (! $ticker.parent().eq(0).hasClass('wrap')) {
-            $wrap = $ticker.wrap("<div class='wrap'></div>");
+        if (!$ticker.parent().eq(0).hasClass('wrap')) {
+          $wrap = $ticker.wrap("<div class='wrap'></div>");
         }
- 
         var $tickerContainer = null;
- 
-        if (! $ticker.parent().parent().eq(0).hasClass('container')) {
-            $tickerContainer = $ticker.parent().wrap(
-                    "<div class='container'></div>");
+        if (!$ticker.parent().parent().eq(0).hasClass('container')) {
+          $tickerContainer = $ticker.parent().wrap(
+            "<div class='container'></div>");
         }
- 
         var node = $ticker[0].firstChild;
         var next;
- 		
-        while(node) {
-            next = node.nextSibling;
-            console.log(node.NodeType);
-          
-            if(node.NodeType == 3) {
-                $ticker[0].removeChild(node);
-            }
-            node = next;
+        while (node) {
+          next = node.nextSibling;
+          console.log(node.NodeType);
+          if (node.NodeType == 3) {
+            $ticker[0].removeChild(node);
+          }
+          node = next;
           console.log(node);
         }
- 
         var shiftLeftAt = $ticker.children().eq(0).outerWidth(true);
- 
         $.fn.csTicker.settings[settings.tickerID].shiftLeftAt = shiftLeftAt;
         $.fn.csTicker.settings[settings.tickerID].left = 0;
         $.fn.csTicker.settings[settings.tickerID].runid = null;
- 
         $ticker.width(2 * screen.availWidth);
- 	
+
         function startTicker() {
-            stopTicker();
- 
-            var params = $.fn.csTicker.settings[settings.tickerID];
-            params.left -= settings.speed;
-            if(params.left <= params.shiftLeftAt * -1) {
-                params.left = 0;
-                $ticker.append($ticker.children().eq(0));
-                params.shiftLeftAt = $ticker.children().eq(0).outerWidth(true);
-            }
- 
- 			var leftPos = (params.left < 0 ) ? (-1 * params.left) : params.left;
-            $tickerContainer.scrollLeft(leftPos);
-            params.runId = setTimeout(arguments.callee, settings.interval);
- 
-            $.fn.csTicker.settings[settings.tickerID] = params;
+          stopTicker();
+          var params = $.fn.csTicker.settings[settings.tickerID];
+          params.left -= settings.speed;
+          if (params.left <= params.shiftLeftAt * -1) {
+            params.left = 0;
+            $ticker.append($ticker.children().eq(0));
+            params.shiftLeftAt = $ticker.children().eq(0).outerWidth(true);
+          }
+          var leftPos = (params.left < 0) ? (-1 * params.left) : params.left;
+          $tickerContainer.scrollLeft(leftPos);
+          params.runId = setTimeout(arguments.callee, settings.interval);
+          $.fn.csTicker.settings[settings.tickerID] = params;
         }
- 
+
         function stopTicker() {
-            var params = $.fn.csTicker.settings[settings.tickerID];
-            if (params.runId)
-                clearTimeout(params.runId);
- 
-            params.runId = null;
- 
-            $.fn.csTicker.settings[settings.tickerID] = params;
+          var params = $.fn.csTicker.settings[settings.tickerID];
+          if (params.runId)
+            clearTimeout(params.runId);
+          params.runId = null;
+          $.fn.csTicker.settings[settings.tickerID] = params;
         }
- 
+
         function updateTicker() {
- 
-            stopTicker();
-            startTicker();
+          stopTicker();
+          startTicker();
         }
-
- 		if (settings.pauseOnHover) {
-	        $ticker.hover(stopTicker,startTicker);
-	    }
- 
+        if (settings.pauseOnHover) {
+          $ticker.hover(stopTicker, startTicker);
+        }
         startTicker();
-    };
-
-	
-    $.fn.csTicker.settings = {};
- 
-    $.fn.csTicker.defaults = {
-        tickerID :null,
-        url :null,
-        speed :2,
+      };
+      $.fn.csTicker.settings = {};
+      $.fn.csTicker.defaults = {
+        tickerID: null,
+        url: null,
+        speed: 2,
         pauseOnHover: false,
-        interval :17 /* ORIG 20*/ /* Lower this number for a faster lower bar */
-    };
-})(jQuery);
-    </script>
+        interval: 17 /* ORIG 20*/ /* Lower this number for a faster lower bar */
+      };
+    })(jQuery);
+  </script>
 </head>
 <!-- START HTML -->
-  <body>
-  
-  <br><br><br><br><br>
-       <div class="responsive-container">
-<!--     <h1 class="app-name"><span class="first-letter-x"></span><span class="letter-x"></span> 心星 </h1> -->
-   <!-- </div> -->
-     
-<!-- MAIN TOICKER CONTAINER -->
-<div id="ticker" class="stockTicker">
 
-  <!-- FIRST PROJECT ON TICKER -->
-  <span class="up"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/Pink-Catgirl-Donuts-Doughnuts.jpg">&nbsp;<a class="name-link" href="https://www.pornhub.com" target="_blank">Soyun</a></span> needs 200,000TWD, to build a messenger app</span>
-  𓂅
-  
-  
-  <!-- SECOND PROJECT ON TICKER -->
-  
+<body>
+  <br><br><br><br><br>
+  <!-- GIRL -->
+  <video loop width="320" height="240" autoplay muted>
+    <source src="http://thenewcode.com/assets/videos/polina.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- FOREST -->
+  <video loop width="320" height="240" autoplay muted>
+    <source src="
+https://assets.codepen.io/577362/MoonInForest.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- BOAT 
+  <video loop width="auto" height="310" autoplay muted>
+    <source src="https://assets.codepen.io/577362/could-be-Danshui-mountain.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video> -->
+
+  <!-- LINES -->
+  <video loop width="320" height="240" autoplay muted>
+    <source src="https://assets.codepen.io/577362/abstract+lines.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>
+
+  <br><br><br><br><br>
+  <div class="responsive-container">
+    <!--     <h1 class="app-name"><span class="first-letter-x"></span><span class="letter-x"></span> 心星 </h1> -->
+    <!-- </div> -->
+
+    <!-- MAIN TOICKER CONTAINER -->
+    <div id="ticker" class="stockTicker">
+
+      <!-- FIRST PROJECT ON TICKER -->
+      <span class="up"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/Pink-Catgirl-Donuts-Doughnuts.jpg">&nbsp;<a class="name-link" href="https://www.pornhub.com" target="_blank">Soyun</a></span> wants 3,000TWD <a class="project-link" href="https://www.patreon.com" target="_blank">to start a mushroom farming school in Xinbeitou.</a></span>
+
+      𓂅
+
+      <!-- SECOND PROJECT ON TICKER -->
+
       <span class="down">
-        <span class="quote"><img height="30px" src="https://assets.codepen.io/577362/Kalki-Emerald-2022.jpeg">&nbsp;<a class="name-link" href="https://www.pornhub.com" target="_blank">Jessy</a></span> wants to <a class="project-link" href="https://www.patreon.com" target="_blank">start a basil farm in Xinbeitou</a></span>
-          
-    <!-- THIRD PROJECT ON TICKER -->
-  
-  <span class="up"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/Pink-Catgirl-Donuts-Doughnuts.jpg">&nbsp;Alvina</span> wants to start an online Yoga class</span>
-<!--   <span class="eq"><span class="quote">CVN</span> 6.3 0.0%</span> -->
-  
-  
-    <!-- FOURTH PROJECT ON TICKER -->
-  
-  <span class="down"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/burgundy.jpeg">&nbsp;Mike</span> is raising 100,000 for a hydroponic farm</span>
-  
-  
-    <!-- FIFTH PROJECT ON TICKER -->
-  
-  <span class="up"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/mysterious-girl.jpeg">&nbsp;Alice</span> is raising 10,000 to start a homeless food project</span>
-   
-  <!-- END PROJECTS --> 
-  
-  <!-- You can add another project by uncommenting this block -->
-   
-  <!-- Delete this to open this up -->
-  <!--
+        <span class="quote"><img height="30px" src="https://assets.codepen.io/577362/Kalki-Emerald-2022.jpeg">&nbsp;<a class="name-link" href="https://www.patreon.com" target="_blank">Jessy</a></span> needs 5,000TWD <a class="project-link" href="https://www.patreon.com" target="_blank">to start a basil farm in Xinbeitou.</a></span>
+
+      <!-- THIRD PROJECT ON TICKER -->
+
+      <span class="up"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/Pink-Catgirl-Donuts-Doughnuts.jpg">&nbsp;<a class="name-link" href="https://www.patreon.com" target="_blank">Alvina</a></span> needs <a class="project-link" href="https://www.patreon.com" target="_blank">3,000TWD for an online Yoga Class. </a></span>
+      <!--   <span class="eq"><span class="quote">CVN</span> 6.3 0.0%</span> -->
+
+      <!-- FOURTH PROJECT ON TICKER -->
+
+      <span class="down"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/woman-in-red-hoodie-jacket-with-blue-yellow-and-green-paint-3660029.jpg">&nbsp;<a class="name-link" href="https://www.patreon.com" target="_blank">Mica</a>&nbsp;</span>is raising <a class="project-link" href="https://www.patreon.com" target="_blank">3,000TWD for a hydroponic farm </a></span>
+
+      <!-- FIFTH PROJECT ON TICKER -->
+      <!--   
+  <span class="up"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/NEONphoto-of-woman-wearing-yellow-sweater-3404474.jpg">&nbsp;
+  <a class="name-link" href="https://www.patreon.com" target="_blank">Alice</a>&nbsp;</span>is raising<a class="project-link" href="https://www.patreon.com" target="_blank">  10,000 to start a homeless food project.</a></span> -->
+
+      <!-- END PROJECTS -->
+
+      <!-- You can add another project by uncommenting this block -->
+
+      <!-- Delete this to open this up -->
+      <!--
   <span class="up"><span class="quote"><img height="30px" src="https://assets.codepen.io/577362/mysterious-girl.jpeg">&nbsp;YOURNAME</span> is raising XMONEY to start a YOURPROJECTHERE </span>
  
 -->
 
-  <!-- Are there the correct number of div closers?--> 
-  
+      <!-- Are there the correct number of div closers?-->
+
+    </div>
   </div>
   </div>
-</div>
 
-<br><br><br><br><br>
-<!-- UNDER THE TICKER< WE HAVE THREE FEATURED PROJECTS -->
+  <br><br><br><br><br>
+  <!-- UNDER THE TICKER< WE HAVE THREE FEATURED PROJECTS -->
 
-<p class="three-project-container">
-<br><br><br> 
+  <p class="three-project-container">
+    <br><br><br>
 
-  <!-- FIRST FEATURED PROJECT -->
+    <!-- FIRST FEATURED PROJECT -->
 
-     <a href="https://www.kickstarter.com" target="_blank">
-  <div id="navBtn1" class="main-nav-btn" data-id="12345" data-toggle="popover" data-trigger="hover" data-html="true" title="Danshui Tomato Farm" data-content=" <hr>
+    <a href="https://www.kickstarter.com" target="_blank">
+      <div id="navBtn1" class="main-nav-btn" data-id="12345" data-toggle="popover" data-trigger="hover" data-html="true" title="Danshui Tomato Farm" data-content=" <hr>
 We need 5,000 to start a tomato farm in North Danshui. We will start with 20 plants. Click the pic to come to our Patreon <br><br> <br><br><img src='https://assets.codepen.io/577362/zeczec.png' width='1005px'>"></div>
-  </a>
-   
+    </a>
 
-<!-- DANSHUI TOMATO FARM 
+    <!-- DANSHUI TOMATO FARM 
 
 We need 5,000 to start a tomato farm in North Danshui. We will start with 20 plants. Click the pic to come to our Patreon
 
 -->
-  
-  <!-- SECOND FEATURED PROJECT -->
 
-   <a href="https://www.kickstarter.com" target="_blank">
-  <div id="navBtn2" class="main-nav-btn" data-id="23456" data-toggle="popover" data-trigger="hover" data-html="true" title="22222" data-content=" <hr>This is the body for 2<br><br> hhhh <br><br><img src='https://assets.codepen.io/577362/zeczec.png' width='100px'>"></div>
-  </a>
-  
-  
-<!-- THIRD FETURED PROJECT -->
+    <!-- SECOND FEATURED PROJECT -->
 
-   <a href="https://www.kickstarter.com" target="_blank">
-  <div id="navBtn3" class="main-nav-btn" data-id="34567" data-toggle="popover" data-trigger="hover" data-html="true" title="3333" data-content=" <hr>This is the body for 3 <br><br> hhhh <br><br><img src='https://assets.codepen.io/577362/zeczec.png' width='100px'>"></div>
-  </a>
-  
-  >
-  </br><br>
+    <a href="https://www.kickstarter.com" target="_blank">
+      <div id="navBtn2" class="main-nav-btn" data-id="23456" data-toggle="popover" data-trigger="hover" data-html="true" title="22222" data-content=" <hr>This is the body for 2<br><br> hhhh <br><br><img src='https://assets.codepen.io/577362/zeczec.png' width='100px'>"></div>
+    </a>
 
-    <main class="infinite-photo-grid"></main>
-<!-- END FEATURED PROJECTS -->
+    <!-- THIRD FEATURED PROJECT -->
 
-  
-<!-- END FEATURED PROJECTS -->
-  
+    <a href="https://www.kickstarter.com" target="_blank">
+      <div id="navBtn3" class="main-nav-btn" data-id="34567" data-toggle="popover" data-trigger="hover" data-html="true" title="3333" data-content=" <hr>This is the body for 3 <br><br> hhhh <br><br><img src='https://assets.codepen.io/577362/zeczec.png' width='100px'>"></div>
+    </a>
+
+    >
+    </br><br>
+
+    <!-- Widgets Start -->
+    <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+
+    <script type="text/javascript">
+      new TradingView.MediumWidget({
+        "container_id": "tv-medium-widget-57006",
+        "symbols": [
+          [
+            "Nasdaq",
+            "NASDAQ:NDAQ|1y"
+          ],
+        ],
+        "greyText": "Quotes by",
+        "gridLineColor": "#e9e9ea",
+        "fontColor": "#83888D",
+        "underLineColor": "#dbeffb",
+        "trendLineColor": "#4bafe9",
+        "width": "1000px",
+        "height": "400px",
+        "locale": "en"
+      });
+    </script>
+
+    <!--Widgets End-->
+
+  <main class="infinite-photo-grid"></main>
+  <!-- END FEATURED PROJECTS -->
+  <div class="container-dark">
+    <br><br><br><br><br><br><br><br>
+    <div class="iframes-container">
+      <h1 align="center">
+        <iframe height="270px" class="red-turtle-iframe" src="https://www.redturtle.cc"></iframe>
+        <iframe height="280px" class="" src="https://www.flyingv.cc/projects/32520"></iframe>
+        <iframe height="290px" src="https://www.redturtle.cc/project.php?action=detail&pid=1391">
+        </iframe>
+      </h1>
+      <br><br><br><br><br>
+    </div>
+    <div class="footer">
+      <a href="https://github.com/Morningstar88/X/blob/main/X2/TheOneWebRing.md" target="_blank"><img class="one-ring-to-rule-em-all" src="https://raw.githubusercontent.com/Pj-Thinker/my-html-content/main/theRinghollow.png"></a>
+      </footer>
+    </div>
 </body>
+
 </html>
-  
