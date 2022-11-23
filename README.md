@@ -1,4 +1,4 @@
-<h1 align="center">Raise money. Create a Responsive Web App in 30 mins. Free and Open Source</h1>
+<h1 align="center">Raise Your First 500USD. Create a Localized Micro-Finance Website in 30 mins. Free and Open Source</h1>
 
 <p align="center" https://i.imgur.com/HdXNU9o.png>
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
