@@ -10,3 +10,9 @@ There are hundreds of free or low-cost usable APIs out there. Or you could just 
 
 Staying in the browser has it's downsides, but many more benefits. You don't need to run a server, and can deploy a site for free. 
 
+The browser is not a cute 
+
+Basecamp
+
+https://www.smashingmagazine.com/2010/01/20-indispensable-browser-based-apps/
+
