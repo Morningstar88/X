@@ -16,3 +16,6 @@ Basecamp
 
 https://www.smashingmagazine.com/2010/01/20-indispensable-browser-based-apps/
 
+Angry Birds
+
+https://blog.getsocial.im/mobile-app-growth-study-why-the-angry-birds-are-so-popular/
