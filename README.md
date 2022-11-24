@@ -1,5 +1,8 @@
 <h1 align="center">Raise Your First 500USD. Create a Localized Micro-Finance Website in 30 mins. Free and Open Source</h1>
 
+# [Nov 23rd. Latest Build](https://xinxing.vercel.app/)
+# [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
+
 <p align="center" https://i.imgur.com/HdXNU9o.png>
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
 </p>
