@@ -1,29 +1,68 @@
-<h1 align="center">Raise Your First 500USD. Create a Localized Micro-Finance Website in 30 mins. Free and Open Source</h1>
 
-# [Nov 23rd. Latest Build](https://xinxing.vercel.app/)
-# [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
+<br>
+<br>
 
 <p align="center">
 <img height="500" src="https://raw.githubusercontent.com/Morningstar88/X/main/X2/Hosted-Pics/XinXing%20LatestNov23rd.png">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<hr>
+
+<h1 align="center">Raise Your First 500USD. Create a Localized Micro-Finance Website in 30 mins. Free and Open Source</h1>
+
+# [Nov 23rd. Latest Build](https://xinxing.vercel.app/)
+# [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
+
+<br>
+<br>
+<br>
+
 <p align="center"> 
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
 </p>
 
+<br>
+<br>
+<br>
+
 <h1 align="center"> X Framework: Aims</h1>
+
+<br>
 
 - #### We can help you raise your first 1,000, 10,000 and 50,000 TWD on Patreon, ZezZec, or Red Turtle. Get started on the microfinance ladder.
 - [Check out our free, easy-to-edit, open source designs](https://codepen.io/collection/GoZjQW). Learn HTML, CSS and JS basics. Set up a beautiful open source website, fast, and for free. In the open source world, you can share ideas and projects. 
 - Learn basic marketing and promotion on TikTok, Youtube, and other platforms. If you make a 30 second video, we can show it to donors on our local stock market page. 
 
+<br>
+<br>
+<br>
+
 # [PLease check out our latest experiment. Localized, Open Source, Presentation Pages](https://github.com/Microflow/X/blob/main/NEW-Presentation-Page.md)
+
+<br>
+<br>
+<br>
 
 <p align="center">
 <img src="https://github.com/Microflow/X/blob/main/catgirl-template.png">
 </p>
 
+<br>
+<br>
+<br>
+
 We are actively talking to coporations, churches, temples, and other donors. We'll help you promote your site. We are constantly [promoting our showcase page](https://codepen.io/Teeke/pen/PoamXjY). If you use our system, we'll do our best to help you get noticed. 
+
+<br>
+<br>
+<br>
 
 ## Why not just set up a Patreon?
 
@@ -31,6 +70,10 @@ We are actively talking to coporations, churches, temples, and other donors. We'
 
 - The following Web Apps can Be Copied in One Click. 
 - We put all the HTML, CSS and JS in one block. This makes it easier for beginner users, and slightly harder for developers. 
+
+<br>
+<br>
+<br>
 
 <h1 align="center">Main Apps in Development Right Now</h1>
 
