@@ -3,7 +3,11 @@
 # [Nov 23rd. Latest Build](https://xinxing.vercel.app/)
 # [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
 
-<p align="center" https://i.imgur.com/HdXNU9o.png>
+<p align="center">
+<img height="500" src="https://raw.githubusercontent.com/Morningstar88/X/main/X2/Hosted-Pics/XinXing%20LatestNov23rd.png">
+</p>
+
+<p align="center"> 
 <img height= "500" src="https://i.imgur.com/HdXNU9o.png">
 </p>
 
