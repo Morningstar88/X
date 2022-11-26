@@ -1,0 +1,16 @@
+# Why is this website open source? What's your business model?
+
+Open source apps can make money using a number of methods. 
+
+# You say its a Micro Sotck Market, or Crowdfundign Market, what does that mean?
+
+# HTML/CSS/JS is front end only. Do you have an API or backend?
+
+Writing in these languages makes it very easy for the user to copy our design in one click. 
+
+To get out information, we link to other APIS and websites. Our weather info comes from a Weather API. Our stock 
+information comes form another API. 
+
+Using our sytem, you can set up your own version very quickly and easy. Settign up a server can be hard, 
+time-consuming and difficult for beginner users. Using APIs from other companies, you can be up and running in 30 minutes. 
+
