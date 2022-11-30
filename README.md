@@ -25,6 +25,8 @@ TODO: Choose Ring picture from [Pexels](https://www.pexels.com).
 # [Nov 23rd NEW. Latest Build](https://xinxing.vercel.app/)
 # [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
 
+# [Business Models for Open Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+
 <br>
 <br>
 <br>
