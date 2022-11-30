@@ -27,6 +27,8 @@ TODO: Choose Ring picture from [Pexels](https://www.pexels.com).
 
 # [Business Models for Open Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 
+Check the contents and discuss. 
+
 <br>
 <br>
 <br>
