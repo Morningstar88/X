@@ -17,9 +17,12 @@
 
 <h1 align="center">Raise Your First 500USD. Create a Localized Micro-Finance Website in 30 mins. Free and Open Source</h1>
 
-# [Nov 30th. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
-# [Nov 30th. Language Exchange TikTok Component.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
-# [Nov 23rd. Latest Build](https://xinxing.vercel.app/)
+# [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
+# [Nov 30th NEW. Language Exchange TikTok Component.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
+TODO: Brainstorm hashtags and content. 
+# [Nov 30th NEW. Mobile site](https://xyx.vercel.app/)
+TODO: Choose Ring picture from [Pexels](https://www.pexels.com).
+# [Nov 23rd NEW. Latest Build](https://xinxing.vercel.app/)
 # [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
 
 <br>
