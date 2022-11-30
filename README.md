@@ -17,6 +17,7 @@
 
 <h1 align="center">Raise Your First 500USD. Create a Localized Micro-Finance Website in 30 mins. Free and Open Source</h1>
 
+# [Nov 30th. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/pen/mdKKMzy)
 # [Nov 23rd. Latest Build](https://xinxing.vercel.app/)
 # [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
 
