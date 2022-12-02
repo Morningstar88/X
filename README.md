@@ -19,7 +19,12 @@
 
 # [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
 # [Nov 30th NEW. Language Exchange TikTok Component.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
-TODO: Brainstorm hashtags and content. 
+TODO: Brainstorm hashtags and content.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/colours.png">
+</p>
+
 # [Nov 30th NEW. Mobile site](https://xyx.vercel.app/)
 TODO: Choose Ring picture from [Pexels](https://www.pexels.com).
 # [Nov 23rd NEW. Latest Build](https://xinxing.vercel.app/)
