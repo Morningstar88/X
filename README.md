@@ -21,9 +21,9 @@
 
 <h2 align="center">Free and Open Source</h2>
 
-XingXing is a Microfinance Web app that shows the latest market prices from stock market APIs. We also have a ticker that displays the latest projects in your area. Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. Our aim is to get some stock market money flowing into microfiancne markets, and help people get started on the microfinance ladder.
+XingXing is a Microfinance Web app that shows the latest market prices from stock market APIs. We also have a ticker that displays the latest projects in your area. Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. Our aim is to get some stock market money flowing into microfinance markets, and help people get started on the funding ladder.
 
-## How to start Getting Funding in 1-2 Hours
+## How to Start Getting Funding in 1-2 Hours
 
 #### 1. Set up a crowdfunder on [ZecZec](https//:www.zeczec.com), [Patreon](https://www.patreon.com), [Red Turtle](https://redturtle.cc), [Kickstarter](https://www.kickstarter.com) or [StartSomeGood](https://StartSomeGood.com) 
 #### 2. Post it on our Reddit or Facebook. 
@@ -31,7 +31,7 @@ XingXing is a Microfinance Web app that shows the latest market prices from stoc
 
 You can also take our free and open source design to set up your own local microfinance node. 
 
-Check out our latest deisngs here. All are completely free.
+Check out our latest designs here. All are completely free.
 
 # [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
 # [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
@@ -47,6 +47,12 @@ TODO: Choose Ring picture from [Pexels](https://www.pexels.com).
 # [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
 
 # [Business Models for Open Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+
+## Why Use XingXing?
+
+- If you're already setting up a crowdfunding project, sending us a link only takes a minute. It's free. and no risk. 
+- We're constantly promoting the [main xingxing page](https:xyx.vercel.app) in churches, temples, and corporations. If you're on the microfinance ticker, we hope to get some clicks on your page. 
+
 
 Check the contents and discuss. 
 
