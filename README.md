@@ -39,15 +39,15 @@ You can also take our free and open source design to set up your own local micro
 <br>
 <br>
 
-Check out our Free and Open Source latest designs here. 
+# Check out our Free and Open Source latest designs here. 
 
-# [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
+## [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
 
 <br>
 <br>
 <br>
 
-# [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
+## [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
 TODO: Brainstorm hashtags and content.
 
 <br>
@@ -62,22 +62,22 @@ TODO: Brainstorm hashtags and content.
 <br>
 <br>
 
-# [Nov 30th NEW. Mobile site](https://xyx.vercel.app/)
+## [Nov 30th NEW. Mobile site](https://xyx.vercel.app/)
 TODO: Choose Ring picture from [Pexels](https://www.pexels.com).
 
 <br>
 <br>
 <br>
 
-# [Nov 23rd NEW. Latest Build](https://xinxing.vercel.app/)
+## [Nov 23rd NEW. Latest Build](https://xinxing.vercel.app/)
 
 <br>
 <br>
 <br>
 
-# [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
+## [Open Source Code, Free](https://codepen.io/Teeke/pen/QWxORvw)
 
-# [Business Models for Open Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+## [Business Models for Open Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 
 ## Why Use XingXing?
 
