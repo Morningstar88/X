@@ -17,15 +17,17 @@
 
 <h1 align="center">Raise Your First 500USD. Create a Localized Micro-Finance Website in 30 mins. </h1>
 
+<h2 align="center">XingXing, 星幸, Crowdfunding Market Microfinance Web-App</h2>
+
 <h2 align="center">Free and Open Source</h2>
 
-## XingXing, Crowdfunding Market Microfinance Web-App
+XingXing is a Microfinance Web app that shows the latest market prices from stock market APIs. We also have a ticker that displays the latest projects in your area. Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. Our aim is to get some stock market money flowing into microfiancne markets, and help people get started on the microfinance ladder.
 
-XingXing is a Microfinance Web app that displays latest market prices from stock market APIs. We also have a ticker that displays the latest projects in your area. Do you want to raise 500USd to start a hydroponic farm? Or 50USD to buy a ukulele? 
+## How to start Getting Funding in 1-2 Hours
 
-1. Set up a crowdfunder on [ZecZec](https//:www.zeczec.com), [Patreon](https://www.patreon.com), [Red Turtle](https://redturtle.cc), [Kickstarter](https://www.kickstarter.com) or [StartSomeGood](https://StartSomeGood.com) 
-2. Post it on our Reddit or Facebook. 
-3. We'll promote it, and try and get you donations.
+#### 1. Set up a crowdfunder on [ZecZec](https//:www.zeczec.com), [Patreon](https://www.patreon.com), [Red Turtle](https://redturtle.cc), [Kickstarter](https://www.kickstarter.com) or [StartSomeGood](https://StartSomeGood.com) 
+#### 2. Post it on our Reddit or Facebook. 
+#### 3. We'll promote it, and try and get you donations.
 
 You can also take our free and open source design to set up your own local microfinance node. 
 
