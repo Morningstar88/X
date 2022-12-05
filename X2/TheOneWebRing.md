@@ -17,16 +17,10 @@ So what is my job, if the infastucture has already been built.
 2) Help people raise their first 500USD, adn set up an open source microfinacne network. 
 
 Food and deliveries.
-
-Amazon Delivery. 
-
-Litterati
-
-StartSomeGood.
-
-Codepen.
-
-Pexels. 
-
-Kiva.
-
+ Three: Half Baked Ideas for beginner Coders.
+ 
+ Include big codepen list
+ 
+ 20 apps for a better Earth.
+ 
+ "Ideas Man"
