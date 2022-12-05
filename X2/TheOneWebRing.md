@@ -18,9 +18,15 @@ So what is my job, if the infastucture has already been built.
 
 Food and deliveries.
 
-Amazong Delivery. 
+Amazon Delivery. 
 
-Literati
+Litterati
 
 StartSomeGood.
+
+Codepen.
+
+Pexels. 
+
+Kiva.
 
