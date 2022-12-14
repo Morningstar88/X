@@ -3,6 +3,25 @@
  
 ## Make a DIY Flanagan Neurophone, a brain enhancing device. (FUN/PAID)
 
+### PARTS LIST
+
+- 5 Piezo Pickups
+- TL 494 Pulese Width Moduolation controller. 
+
+## Instructables Design Looks Simplest So Far. 
+
+
+
+NOTES:
+
+- Also, it turns out "earplug-style" in-ear-monitor headphones produce some of (but probably not all) of the same effects a Neurophone does. 
+- By mixing an audio signal with ultrasound, you can hear the audio as if it's inside your head... even if the 'headphones' are nowhere near your ears.
+- The second version of the "Neurophone" used ultrasound instead. By modulating an ultrasonic signal with the audio we want to listen to, it gets picked up by a little-known part of the brain and turned into something that feels like sound.
+- TL494 pulse-width modulation controller. 
+
+
+The weird thing is this works even if the ultrasound transducers are far away from the head: maybe down at your waist, or even further (depending on your body).
+
 https://www.instructables.com/Build-a-Simple-DIY-Flanagan-Neurophone/
 
 http://dangerousprototypes.com/blog/2012/08/09/diy-neurophone-hear-music-in-your-brain/
