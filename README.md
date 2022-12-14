@@ -19,21 +19,33 @@
 
 <h2 align="center">XingXing, 星幸, Crowdfunding Market Microfinance Web-App</h2>
 
-<h2 align="center">Free and Open Source</h2>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p>
 
+<h2 align="center">Free and Open Source</h2>
+
 XingXing is a Microfinance Web app that shows the latest market prices from stock market APIs. We also have a ticker that displays the latest crowdfunding projects in your area. Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. Our aim is to get some stock market money flowing into microfinance markets, and help people get started on the funding ladder.
+
+
+<br>
+<br>
+<br>
 
 ## DEC 14TH LATEST DESIGNS
 
 ## [Dec 14th NEW: Minimal Orange / Black Ticker](https://codepen.io/Teeke/full/bGKOGOo)
 
-## [Midnight - Simple Language Learning Web-App](https://codepen.io/Teeke/pen/poKQxzv)
+## [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
+TODO: Brainstorm hashtags and content.
 
-## [DECEMBER 10TH. GodlikeMidnight Comments Section](https://godlikemidnight.vercel.app/)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/colours.png">
+</p>
+
+## [Midnight - Language Exchange TikTok Component.](https://codepen.io/Teeke/full/poKQxzv) | [CODE](https://codepen.io/Teeke/pen/poKQxzv)
+
+## [DECEMBER 10TH. GodlikeMidnight Comments Section. Easily start a PTT or Mobil One Forum ](https://godlikemidnight.vercel.app/)
 
 <br>
 <br>
@@ -51,28 +63,16 @@ You can also take our free and open source design to set up your own local micro
 <br>
 <br>
 
-# Check out our Free and Open Source latest designs here. 
-
-## [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
-TODO: Brainstorm hashtags and content.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/colours.png">
-</p>
+# Check out More Free and Open Source latest designs here. 
 
 ## [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/pen/mdKKMzy)
 
-<br>
-<br>
-<br>
-
-
 
 <br>
 <br>
 <br>
 
-### [XingXing. Latest Codepen Experiments ]
+### [XingXing. Latest Codepen Experiments. Follow Our Latest Designs Here ](https://codepen.io/collection/JGkEgY)
 
 <br>
 <br>
