@@ -34,7 +34,7 @@ XingXing is a Microfinance Web app that shows the latest market prices from stoc
 
 ## DEC 14TH LATEST DESIGNS
 
-## [Dec 14th NEW: Minimal Orange / Black Ticker](https://codepen.io/Teeke/full/bGKOGOo)
+## [Dec 14th NEW: Minimal Orange / Black Ticker](https://codepen.io/Teeke/full/bGKOGOo) | [CODE](https://codepen.io/Teeke/full/bGKOGOo)
 
 ## [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
 TODO: Brainstorm hashtags and content.
@@ -43,7 +43,7 @@ TODO: Brainstorm hashtags and content.
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/colours.png">
 </p>
 
-## [Midnight - Language Exchange TikTok Component.](https://codepen.io/Teeke/full/poKQxzv) | [CODE](https://codepen.io/Teeke/pen/poKQxzv)
+## [Midnight - Language Exchange TikTok Component. Dark Theme](https://codepen.io/Teeke/full/poKQxzv) | [CODE](https://codepen.io/Teeke/pen/poKQxzv)
 
 ## [DECEMBER 10TH. GodlikeMidnight Comments Section. Easily start a PTT or Mobil One Forum ](https://godlikemidnight.vercel.app/)
 
@@ -67,7 +67,7 @@ You can also take our free and open source design to set up your own local micro
 
 ## [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/pen/mdKKMzy)
 
-## (APRIL 2033. Chi CHi Drums. Fun Language Learning App)(https://codepen.io/Teeke/pen/bGKQOEM)
+## [APRIL 2033. Chi CHi Drums. Fun Language Learning App](https://codepen.io/Teeke/pen/bGKQOEM)
 
 <br>
 <br>
