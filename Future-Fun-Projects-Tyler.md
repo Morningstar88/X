@@ -1,3 +1,7 @@
+<p align=center">
+<irg src="https://www.looper.com/img/gallery/what-filming-cats-was-really-like-for-taylor-swift/l-intro-1623426101.jpg">
+</p>
+
 # FUTURE FUN PROJECTS:
   
 ## Make a DIY Flanagan Neurophone, a brain enhancing device. (FUN/PAID)
