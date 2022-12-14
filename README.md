@@ -43,6 +43,13 @@ You can also take our free and open source design to set up your own local micro
 
 ## [Dec 14th NEW: Minimal Orange / Black Ticker](https://codepen.io/Teeke/full/bGKOGOo)
 
+# Midnight - Simple Language Learning Web-App
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
+</p>
+
+
 ## [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
 
 <br>
@@ -61,12 +68,6 @@ TODO: Brainstorm hashtags and content.
 <br>
 <br>
 <br>
-
-# Midnight - Simple Language Learning Web-App
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
-</p>
 
 # Colors - Language Learning Web-App Alternate Design
 
