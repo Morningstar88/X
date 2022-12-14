@@ -1,21 +1,5 @@
-
-<h1 align="center">
-FUTURE FUN PROJECTS</h1>
-<p align="center">
-<img height="400px" src="https://www.looper.com/img/gallery/what-filming-cats-was-really-like-for-taylor-swift/l-intro-1623426101.jpg">
-</p>
-
-## CONTENTS (Choose One Project Each Meetup)
-
-#### Make a DIY Flanagan Neurophone, a brain enhancing device. (FUN/PAID)
-#### Make a fundraising page for the Rainman and raise 5,500TWD, (MONEY)
-#### Collect branches and turn them in a lathe (PAID WORK)
-#### Adding a Drum extension to The Rainman (PAID)
-#### Collect clay and fire it in a homemade oil furnace. (FUN)
- 
-# <h1 font-size="100px" align="center"> ~ O ~</h1>
-
-
+# FUTURE FUN PROJECTS:
+  
 ## Make a DIY Flanagan Neurophone, a brain enhancing device. (FUN/PAID)
 
 ### PARTS LIST
@@ -30,7 +14,9 @@ FUTURE FUN PROJECTS</h1>
 
 ## Instructables Design Looks Simplest So Far. 
 
+## Interesting Comments
 
+http://dangerousprototypes.com/blog/2012/08/09/diy-neurophone-hear-music-in-your-brain/
 
 NOTES:
 
@@ -49,3 +35,7 @@ http://dangerousprototypes.com/blog/2012/08/09/diy-neurophone-hear-music-in-your
 https://neurophone.wordpress.com/
 
 https://neurophone.wordpress.com/2012/08/05/make-a-diy-flanagan-neurophone-with-a-tl494/
+## Make a fundraising page for the Rainman and raise 5,500TWD, (MONEY)
+## Collect branches and turn them in a lathe (PAID WORK)
+## Adding a Drum extension to The Rainman (PAID)
+## Collect clay and fire it in a homemade oil furnace. (FUN)
