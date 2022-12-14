@@ -1,4 +1,4 @@
-<p align=center">
+<p align="center">
 <irg src="https://www.looper.com/img/gallery/what-filming-cats-was-really-like-for-taylor-swift/l-intro-1623426101.jpg">
 </p>
 
