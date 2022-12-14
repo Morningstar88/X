@@ -41,6 +41,8 @@ You can also take our free and open source design to set up your own local micro
 
 # Check out our Free and Open Source latest designs here. 
 
+## [Dec 14th NEW: Minimal Orange / Black Ticker](https://codepen.io/Teeke/full/bGKOGOo)
+
 ## [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/full/mdKKMzy)
 
 <br>
