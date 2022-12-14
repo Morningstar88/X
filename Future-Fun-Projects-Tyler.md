@@ -1,5 +1,5 @@
 <p align="center">
-<irg src="https://www.looper.com/img/gallery/what-filming-cats-was-really-like-for-taylor-swift/l-intro-1623426101.jpg">
+<img height="600px" src="https://www.looper.com/img/gallery/what-filming-cats-was-really-like-for-taylor-swift/l-intro-1623426101.jpg">
 </p>
 
 # FUTURE FUN PROJECTS:
