@@ -1,12 +1,16 @@
 # FUTURE FUN PROJECTS:
- 
- 
+  
 ## Make a DIY Flanagan Neurophone, a brain enhancing device. (FUN/PAID)
 
 ### PARTS LIST
 
+### HARDWARE
+
 - 5 Piezo Pickups
 - TL 494 Pulese Width Moduolation controller. 
+
+### SOFTWARE 
+- Connect a sine wave signal generator to the input. (If you don't have a signal generator, generate a 440Hz sine wave in the open-source Audacity music editor and upload the file to an MP3 player.
 
 ## Instructables Design Looks Simplest So Far. 
 
