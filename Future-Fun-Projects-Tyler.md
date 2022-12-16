@@ -15,6 +15,15 @@ FUTURE FUN PROJECTS</h1>
  
 # <h1 font-size="100px" align="center"> ~ O ~</h1>
 
+## Branch Art
+
+<img source="https://woodhappen.com/wp-content/uploads/2022/05/Difficult-Woodturning-Projects.jpg">
+
+<img source="https://woodhappen.com/wp-content/uploads/2022/05/Turned-Wooden-Bowl-by-Thomas-Faessler.jpg
+">
+
+<img source="https://woodhappen.com/wp-content/uploads/2022/05/Woodturning-Goblet-Ideas.jpg">
+
 
 ## Make a DIY Flanagan Neurophone, a brain enhancing device. (FUN/PAID)
 
