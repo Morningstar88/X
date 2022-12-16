@@ -23,6 +23,8 @@ FUTURE FUN PROJECTS</h1>
 
 <img src="https://woodhappen.com/wp-content/uploads/2022/05/Woodturning-Goblet-Ideas.jpg">
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsf3ZrNau7XMOqX6XVsVjan9ZuZaKM4nMPfg&usqp=CAU
+
 
 ## Make a DIY Flanagan Neurophone, a brain enhancing device. (FUN/PAID)
 
