@@ -28,6 +28,8 @@
 
 XingXing is a Microfinance Web app that shows the latest market prices from stock market APIs. We also have a ticker that displays the latest crowdfunding projects in your area. Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. Our aim is to get some stock market money flowing into microfinance markets, and help people get started on the funding ladder.
 
+## NEW FEATURE, [December 24TH, Crowdfunding Gallery Demo. Click pics to show Github ReadMe Screengrabs](https://codepen.io/Teeke/full/wvxaZBJ) \ [CODE](https://codepen.io/Teeke/pen/wvxaZBJ) 
+
 ## NEW DESIGN, [December 23rd: Midnight Blue Design](https://codepen.io/Teeke/full/RwBPZra)|[CODE](https://codepen.io/Teeke/pen/RwBPZra)
 
 ## NEW, [December 18th: Can we build a sidebar app?](https://github.com/segmentio/chrome-sidebar)
