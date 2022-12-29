@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<h1 align="center">XingXing, 星幸, Crowdfunding Market Microfinance Framework/h1>
+<h1 align="center">XingXing, 星幸, Crowdfunding Market Microfinance Framework</h1>
 
 <p align="center">
 <img height="500" src="https://raw.githubusercontent.com/Morningstar88/X/main/X2/Hosted-Pics/XinXing%20LatestNov23rd.png">
