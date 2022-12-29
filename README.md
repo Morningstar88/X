@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/15410443/209326012-857475bf-1355-4351-834e-ee8f07d2e22f.png">
+<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
 <br>
