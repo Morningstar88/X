@@ -32,9 +32,11 @@ We have a ticker that displays the latest crowdfunding projects in your area.
 Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. 
 Our aim is to get some stock market money flowing into microfinance markets, and help people get started on the funding ladder.
 
-## NEW FEATURE, [December 24TH, Crowdfunding Gallery Demo. Click pics to show Github ReadMe Screengrabs](https://codepen.io/Teeke/full/wvxaZBJ) | [CODE](https://codepen.io/Teeke/pen/wvxaZBJ) 
+## NEW VERSION [January 4th, Midnight Blue with Integrated Features. Stock API, Search Clickthroughs, Import Ticker](https://codepen.io/Teeke/full/xxJERLM) \ [CODE](https://codepen.io/Teeke/pen/xxJERLM)
 
-## NEW DESIGN, [December 23rd: Midnight Blue Design](https://codepen.io/Teeke/full/RwBPZra)|[CODE](https://codepen.io/Teeke/pen/RwBPZra)
+## NEW FEATURE, [December 24TH, Crowdfunding Gallery Demo. Click pics to show Github ReadMe Screengrabs](https://codepen.io/Teeke/full/wvxaZBJ) \ [CODE](https://codepen.io/Teeke/pen/wvxaZBJ) 
+
+## NEW DESIGN, [December 23rd: Midnight Blue Design](https://codepen.io/Teeke/full/RwBPZra) \ |[CODE](https://codepen.io/Teeke/pen/RwBPZra)
 
 ## NEW, [December 18th: Can we build a sidebar app?](https://github.com/segmentio/chrome-sidebar)
 
@@ -44,16 +46,16 @@ Our aim is to get some stock market money flowing into microfinance markets, and
 
 ## DEC 14TH LATEST DESIGNS
 
-## [Dec 14th NEW: Minimal Orange / Black Ticker](https://codepen.io/Teeke/full/bGKOGOo) | [CODE](https://codepen.io/Teeke/full/bGKOGOo)
+## [Dec 14th NEW: Minimal Orange / Black Ticker](https://codepen.io/Teeke/full/bGKOGOo) \ [CODE](https://codepen.io/Teeke/full/bGKOGOo)
 
-## [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) | [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
+## [Nov 30th NEW. Language Exchange TikTok Component. Colours.](https://codepen.io/Teeke/full/vYrRzEo) \ [CODE](https://codepen.io/Teeke/pen/vYrRzEo)
 TODO: Brainstorm hashtags and content.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/colours.png">
 </p>
 
-## [Midnight - Language Exchange TikTok Component. Dark Theme](https://codepen.io/Teeke/full/poKQxzv) | [CODE](https://codepen.io/Teeke/pen/poKQxzv)
+## [Midnight - Language Exchange TikTok Component. Dark Theme](https://codepen.io/Teeke/full/poKQxzv) \ [CODE](https://codepen.io/Teeke/pen/poKQxzv)
 
 ## [DECEMBER 10TH. GodlikeMidnight Comments Section. Easily start a PTT or Mobil One Forum ](https://godlikemidnight.vercel.app/)
 
@@ -75,7 +77,7 @@ You can also take our free and open source design to set up your own local micro
 
 # Check out More Free and Open Source latest designs here. 
 
-## [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) | [CODE](https://codepen.io/Teeke/pen/mdKKMzy)
+## [Nov 30th NEW. Mobile Version. Less Features. Ticker Bigger. Codepen](https://codepen.io/Teeke/full/mdKKMzy) \ [CODE](https://codepen.io/Teeke/pen/mdKKMzy)
 
 ## [APRIL 2033. Chi CHi Drums. Fun Language Learning App](https://codepen.io/Teeke/pen/bGKQOEM)
 
