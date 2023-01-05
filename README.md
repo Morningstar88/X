@@ -32,7 +32,16 @@ We have a ticker that displays the latest crowdfunding projects in your area.
 Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. 
 Our aim is to get some stock market money flowing into microfinance markets, and help people get started on the funding ladder.
 
-## NEW VERSION [January 4th, Midnight Blue with Integrated Features. Stock API, Search Clickthroughs, Import Ticker](https://codepen.io/Teeke/full/xxJERLM) \ [CODE](https://codepen.io/Teeke/pen/xxJERLM)
+## NEW UPDATE. We have two versions deployed. Kalki, a version for India, and XinXing, for Taiwan.
+
+We have some new features we want to integrate into one version.
+
+[NEW VERSION, With clickthroughs to Taiwanese crowdfunding sites. kalkii.vercel.app](https://kalkii.vercel.app/)
+[OLDER VERSION, With some features we need to integrate. xinxing.vercel.app](https://kalki.vercel.app)
+
+The local stock market ticker is key to our design.
+
+## NEW VERSION [January 4th, Midnight Blue with Integrated Features. Stock API, Search Clickthroughs, Import Ticker](https://codepen.io/Teeke/full/xxJERLM) \ [CODE](https://codepen.io/Teeke/pen/xxJERLM).
 
 ## NEW FEATURE, [December 24TH, Crowdfunding Gallery Demo. Click pics to show Github ReadMe Screengrabs](https://codepen.io/Teeke/full/wvxaZBJ) \ [CODE](https://codepen.io/Teeke/pen/wvxaZBJ) 
 
