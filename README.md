@@ -11,7 +11,6 @@
 
 <h1 align="center">Raise Your First 500USD </h1>
 
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p>
@@ -34,13 +33,13 @@ Our aim is to get some stock market money flowing into microfinance markets, and
 
 ## NEW UPDATE. January 5th 2023. We have two versions deployed. Kalki, a version for India, and XinXing, for Taiwan.
 
-#### We have some new features we want to integrate into one version.
+### We have some new features we want to integrate into one version.
 
-## [OLDER VERSION, with stock ticker and featured project components we need to integrate. xinxing.vercel.app](https://kalki.vercel.app)
+## [OLDER VERSION, with stock ticker and featured project components we need to integrate. xinxing.vercel.app](https://xinxing.vercel.app)
 
 ## [NEW VERSION, with clickthroughs to Taiwanese crowdfunding sites. kalkii.vercel.app](https://kalkii.vercel.app/)
 
-#### The local stock market ticker is key to our design.
+### The local stock market ticker is key to our design.
 
 ## NEW VERSION [January 4th, Midnight Blue with Integrated Features. Stock API, Search Clickthroughs, Import Ticker](https://codepen.io/Teeke/full/xxJERLM) \ [CODE](https://codepen.io/Teeke/pen/xxJERLM).
 
