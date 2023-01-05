@@ -36,8 +36,8 @@ Our aim is to get some stock market money flowing into microfinance markets, and
 
 We have some new features we want to integrate into one version.
 
-[NEW VERSION, With clickthroughs to Taiwanese crowdfunding sites. kalkii.vercel.app](https://kalkii.vercel.app/)
-[OLDER VERSION, With some features we need to integrate. xinxing.vercel.app](https://kalki.vercel.app)
+## [NEW VERSION, With clickthroughs to Taiwanese crowdfunding sites. kalkii.vercel.app](https://kalkii.vercel.app/)
+## [OLDER VERSION, With some features we need to integrate. xinxing.vercel.app](https://kalki.vercel.app)
 
 The local stock market ticker is key to our design.
 
