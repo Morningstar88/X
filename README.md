@@ -31,6 +31,8 @@ We have a ticker that displays the latest crowdfunding projects in your area.
 Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. 
 Our aim is to get some stock market money flowing into microfinance markets, and help people get started on the funding ladder.
 
+## [NEW DEMO COMPONENT. January 9th 2023. Ticker now imported to new version. CSS broken.](https://codepen.io/Teeke/pen/PoBppKQ)
+
 ## NEW UPDATE. January 5th 2023. We have two versions deployed. Kalki, a version for India, and XinXing, for Taiwan.
 
 ### We have some new features we want to integrate into one version.
