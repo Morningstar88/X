@@ -1,4 +1,3 @@
-
 <br>
 <br>
 
@@ -30,6 +29,12 @@ XingXing is a Microfinance Web app that shows the latest market prices from stoc
 We have a ticker that displays the latest crowdfunding projects in your area. 
 Raise 500USD to start a hydroponic farm. Or 50USD to buy a ukulele. 
 Our aim is to get some stock market money flowing into microfinance markets, and help people get started on the funding ladder.
+
+### Latest Issues 
+
+https://github.com/Morningstar88/X/labels/Project%20Manager
+
+## Updates
 
 ## [NEW DEMO COMPONENT. January 9th 2023. Ticker now imported to new version. CSS broken.](https://codepen.io/Teeke/pen/PoBppKQ)
 
