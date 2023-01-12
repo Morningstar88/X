@@ -35,7 +35,11 @@ Our teachers are donor supported.
 
 ### What is open source?
 
-Open source means anyone can use it. The designs are free for you to use. You can copy this design in one click. 
+Open source means anyone can use our designs. The designs are free for you to use. You can copy this design in one click. 
+
+### what is the ticker?
+
+the big stock market already has their ticker. We build a ticker for the micro-market. 
 
 ### What's your business model?
 
