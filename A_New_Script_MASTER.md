@@ -18,9 +18,7 @@
 <br>
 <br>
 
-<h1 align="center">XingXing, 星幸, Crowdfunding Market Microfinance Framework</h1>
-
-## Learn How to Talk About Kalki to Users and Investors
+## Kalki Scripts: Learn How to Talk About Kalki to Users and Investors
 
 ### What does your app do?
 
@@ -28,7 +26,12 @@ We help you raise you first 500USD.
 
 ### How can I raise 500USD?
 
-We train you to use Ketto, Patreon, and othe crowdfundign sites, from zero. no experience necessary. 
+We train you to use Ketto, Patreon, and othe crowdfunding sites, from zero. No experience necessary. 
+
+### Why should I use you?
+
+You can crowdfund on your own, but we help you learn how to write a pitch, take pictures, and promote your site. Training is free, or low cost...
+Our teachers are donor supported. 
 
 ### What is open source?
 
@@ -38,7 +41,7 @@ Open source means anyone can use it. The designs are free for you to use. You ca
 
 First, our costs are very low. We have no office, no meeting room, no server bills. All our code is hosted for free, on Github, and deployed for free, on Vercel.
 
-We make money from
+We make money from;
 
 1) Subscriptions
 2) Private classes
@@ -48,11 +51,11 @@ We make money from
 
 We're currently exploring other open source business models here.
 
-
+https://en.wikipedia.org/wiki/Business_models_for_open-source_software
 
 ## What's your Goal?
 
-We want to make Kalki the fasted crowdfundign portal in the world. 
+We want to make Kalki the fastest crowdfunding portal in the world. 
 
 ## How will you do that?
 
