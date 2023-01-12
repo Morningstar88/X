@@ -22,8 +22,63 @@
 
 ## Learn How to Talk About Kalki to Users and Investors
 
+### What does your app do?
+
 We help you raise you first 500USD.
-We help you set up a local Kalki node. It only takes 15 minutes to make a new node.
+
+### How can I raise 500USD?
+
+We train you to use Ketto, Patreon, and othe crowdfundign sites, from zero. no experience necessary. 
+
+### What is open source?
+
+Open source means anyone can use it. The designs are free for you to use. You can copy this design in one click. 
+
+### What's your business model?
+
+First, our costs are very low. We have no office, no meeting room, no server bills. All our code is hosted for free, on Github, and deployed for free, on Vercel.
+
+We make money from
+
+1) Subscriptions
+2) Private classes
+3) Consulting
+4) Customizing code
+5) Advertising
+
+We're currently exploring other open source business models here.
+
+
+
+## What's your Goal?
+
+We want to make Kalki the fasted crowdfundign portal in the world. 
+
+## How will you do that?
+
+We have a three point plan.
+
+## how will you help us promote your project?
+
+## what is a Kalki node?
+
+Kalki is an open source project, it can run on many nodes.
+
+## Are you competing with other crowdfunding sites?
+
+no. We are cooperating with them. kickstart, Ketto and Patreon are already doing a good 
+
+We want to make our part of the crowdunfding industry faster, more localized, and specialized. 
+
+## What is the Kingmake design.
+
+We beleive there is TOO MUCh information on the net.on kalki, we only display 10 projects at a time. This makes it easier for your to relax. 
+
+
+
+
+
+e help you set up a local Kalki node. It only takes 15 minutes to make a new node.
 ## Example Node: Kalki Chennai.
 
 ## Our design is open source, you can copy it in one click.
