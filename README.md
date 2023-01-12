@@ -36,6 +36,10 @@ https://github.com/Morningstar88/X/labels/Project%20Manager
 
 ## UPDATES
 
+## Single mission crowdfunding. Coming Soon. 
+
+## [Can we build a Kalki Elf design?](https://docs.google.com/document/d/1MQPtU_ittlPy_sS-iDsBBJ1YtQgcvjTBFOW4iVx6sPw/edit)
+
 ## [NEW DEMO COMPONENT. January 9th 2023. Ticker now imported to new version. CSS broken.](https://codepen.io/Teeke/pen/PoBppKQ)
 
 ## NEW UPDATE. January 5th 2023. We have two versions deployed. Kalki, a version for India, and XinXing, for Taiwan.
