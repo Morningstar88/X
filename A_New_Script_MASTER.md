@@ -164,3 +164,13 @@ TODO: Brainstorm hashtags and content.
 ## Thanks for Reading,
 
 Kalki Team
+
+
+## A New color dragon. china in 2030.
+
+Napolon said, China is a Dragon. when she awakens, she will the world
+
+but what color dragon will we see?
+
+ACLEAR AIMS
+
