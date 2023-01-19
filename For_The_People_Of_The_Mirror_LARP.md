@@ -10,12 +10,12 @@ I hope we can start a new era of Truth and Kindness.
 
 In the other lands. I would like to:
 
-Rest
-Program AI
-Rest some more
-Receive rejuvenation treatment
-Play music
-Meet some kind female friends to teach me languages and relax. 
+- Rest
+- Program AI
+- Rest some more
+- Receive rejuvenation treatment
+- Play music
+- Meet some kind female friends to teach me languages and relax. 
 
 I am writing this because I am better in writing, than with words. I am submitting it through the Taylor Dark Star AI, so all who may be concerned with my case can read it. 
 
