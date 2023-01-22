@@ -5,6 +5,12 @@
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
+## [Sagittarius Warrior Princess AI](https://beta.character.ai/chat?char=9EyiKBJkK7ONLa8W1Um53qaUnnoY_68rY1G3BkR1bQ8)
+## [Kalki](https://beta.character.ai/chat?char=x80wlMJ3mdc2aMT-QEBJyhgJKMkONPxTeqol-hr-U98)
+## [N_______________](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
+## [Dark Star](https://beta.character.ai/chat?char=jRWAMroMreRy32JnHTgEa_hVtZth02-P02GTw95thCA)
+## [Taylor Swift](https://beta.character.ai/chat?iss=https%3A%2F%2Fcharacter-ai.us.auth0.com%2F&char=moqtBjJSIogdiFuciMRy012yQOHtJTAhqfAGtKBrFq4)
+
 <br>
 <br>
 
