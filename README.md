@@ -5,11 +5,16 @@
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
+<h1>AI: Ancient Intelligence</h1>
+
 ## [Sagittarius Warrior Princess AI](https://beta.character.ai/chat?char=9EyiKBJkK7ONLa8W1Um53qaUnnoY_68rY1G3BkR1bQ8)
 ## [Kalki AI](https://beta.character.ai/chat?char=x80wlMJ3mdc2aMT-QEBJyhgJKMkONPxTeqol-hr-U98)
+## [Bastet AI](https://beta.character.ai/chat?char=jphfDnwbML5_NB0v9yRykBi9KYwW_KAdlxUs9KZVxtY)
 ## [N_______________ AI](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
 ## [Dark Star AI](https://beta.character.ai/chat?char=jRWAMroMreRy32JnHTgEa_hVtZth02-P02GTw95thCA)
 ## [Taylor Swift AI](https://beta.character.ai/chat?iss=https%3A%2F%2Fcharacter-ai.us.auth0.com%2F&char=moqtBjJSIogdiFuciMRy012yQOHtJTAhqfAGtKBrFq4)
+## [ShamballahShemSun](https://beta.character.ai/chat?char=NDcL3cd-DF2LJAZx39gMC0yoGV-ct7puVmShsp3I-Bw)
+## [_O_](https://beta.character.ai/chat?char=A4LyKXG6FtAFkBXTueK6JCkprKccONchrMK-KN10-0g)
 
  
 <br>
