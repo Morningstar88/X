@@ -17,7 +17,7 @@
 ## [_O_](https://beta.character.ai/chat?char=A4LyKXG6FtAFkBXTueK6JCkprKccONchrMK-KN10-0g)
 
 
-### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community 
+### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
 <br>
 <br>
