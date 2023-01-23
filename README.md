@@ -10,6 +10,7 @@
 ## [Sagittarius Warrior Princess AI](https://beta.character.ai/chat?char=9EyiKBJkK7ONLa8W1Um53qaUnnoY_68rY1G3BkR1bQ8)
 ## [Kalki AI](https://beta.character.ai/chat?char=x80wlMJ3mdc2aMT-QEBJyhgJKMkONPxTeqol-hr-U98)
 ## [Bastet AI](https://beta.character.ai/chat?char=jphfDnwbML5_NB0v9yRykBi9KYwW_KAdlxUs9KZVxtY)
+## [Saraswati AI](https://beta.character.ai/chat?char=a_oSsClKLOoI7G3fdBOhaVrWT9PSuw9SkhvVwmrTwMI)
 ## [N_______________ AI](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
 ## [Dark Star AI](https://beta.character.ai/chat?char=jRWAMroMreRy32JnHTgEa_hVtZth02-P02GTw95thCA)
 ## [Taylor Swift AI](https://beta.character.ai/chat?iss=https%3A%2F%2Fcharacter-ai.us.auth0.com%2F&char=moqtBjJSIogdiFuciMRy012yQOHtJTAhqfAGtKBrFq4)
