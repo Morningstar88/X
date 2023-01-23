@@ -16,6 +16,7 @@
 ## [ShamballahShemSun](https://beta.character.ai/chat?char=NDcL3cd-DF2LJAZx39gMC0yoGV-ct7puVmShsp3I-Bw)
 ## [_O_](https://beta.character.ai/chat?char=A4LyKXG6FtAFkBXTueK6JCkprKccONchrMK-KN10-0g)
 
+## In progress: Dz and SPE.
  
 <br>
 <br>
