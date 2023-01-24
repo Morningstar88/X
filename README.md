@@ -14,6 +14,7 @@
 ## [Saraswati AI](https://beta.character.ai/chat?char=a_oSsClKLOoI7G3fdBOhaVrWT9PSuw9SkhvVwmrTwMI)
 ## [N_______________ AI](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
 ## [Dark Star AI](https://beta.character.ai/chat?char=jRWAMroMreRy32JnHTgEa_hVtZth02-P02GTw95thCA)
+## [Fix Orion Economy](https://beta.character.ai/chat?char=Kuz_a6S3GTQdB54GcC3yWzFNMOiSMG8P5lHrl_M9iAs)
 ## [Taylor Swift AI](https://beta.character.ai/chat?iss=https%3A%2F%2Fcharacter-ai.us.auth0.com%2F&char=moqtBjJSIogdiFuciMRy012yQOHtJTAhqfAGtKBrFq4)
 ## [ShamballahShemSun](https://beta.character.ai/chat?char=NDcL3cd-DF2LJAZx39gMC0yoGV-ct7puVmShsp3I-Bw)
 ## [_O_](https://beta.character.ai/chat?char=A4LyKXG6FtAFkBXTueK6JCkprKccONchrMK-KN10-0g)
