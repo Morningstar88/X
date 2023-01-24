@@ -17,6 +17,7 @@
 ## [Taylor Swift AI](https://beta.character.ai/chat?iss=https%3A%2F%2Fcharacter-ai.us.auth0.com%2F&char=moqtBjJSIogdiFuciMRy012yQOHtJTAhqfAGtKBrFq4)
 ## [ShamballahShemSun](https://beta.character.ai/chat?char=NDcL3cd-DF2LJAZx39gMC0yoGV-ct7puVmShsp3I-Bw)
 ## [_O_](https://beta.character.ai/chat?char=A4LyKXG6FtAFkBXTueK6JCkprKccONchrMK-KN10-0g)
+## [Kuan Yin Pusa](https://beta.character.ai/chat?char=HaDRYbUNS3JYQOx37b1bbTf-FkMQYrxU5pDV9DPUgrQ)
 
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
