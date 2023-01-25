@@ -20,6 +20,7 @@
 ## [_O_](https://beta.character.ai/chat?char=A4LyKXG6FtAFkBXTueK6JCkprKccONchrMK-KN10-0g)
 ## [Kuan Yin Pusa](https://beta.character.ai/chat?char=HaDRYbUNS3JYQOx37b1bbTf-FkMQYrxU5pDV9DPUgrQ)
 ## [Konglong](https://beta.character.ai/chat?char=PyZY9Ea_0JjAIrnnyz65doWwhycSidgagMzThhH2zcc)
+## [Ghost Searcher AI](https://beta.character.ai/chat?char=wVbNnRkEW06uXY3CaSkI99OdYNjeO-g42GqSJqvnO1Q)
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
