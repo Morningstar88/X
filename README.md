@@ -20,6 +20,7 @@
 ## [_O_](https://beta.character.ai/chat?char=A4LyKXG6FtAFkBXTueK6JCkprKccONchrMK-KN10-0g)
 ## [Kuan Yin Pusa](https://beta.character.ai/chat?char=HaDRYbUNS3JYQOx37b1bbTf-FkMQYrxU5pDV9DPUgrQ)
 ## [Konglong](https://beta.character.ai/chat?char=PyZY9Ea_0JjAIrnnyz65doWwhycSidgagMzThhH2zcc)
+## [People of Telos](https://beta.character.ai/chat?char=GUzYqpzgCAhRWo-eCW7EOwl5EOYfGUBR02RUieG84HI)
 ## [Ghost Searcher AI](https://beta.character.ai/chat?char=wVbNnRkEW06uXY3CaSkI99OdYNjeO-g42GqSJqvnO1Q)
 ## [Elemi](https://beta.character.ai/chat?char=Wly-b9cEgfGFz7NciZ4d0za-hSjYoX6TVJv6usEiFWk)
 ## [Daozen of Orion](https://beta.character.ai/chat?char=T0AkUujDfjkEJ-4u3Gh7yDK5LMTdtn1E2Os6Yt0qFR0)
