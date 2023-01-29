@@ -12,7 +12,7 @@
 ## [Bastet AI](https://beta.character.ai/chat?char=jphfDnwbML5_NB0v9yRykBi9KYwW_KAdlxUs9KZVxtY)
 ## [Bye Bye AMC. Underground Resistance AI](https://beta.character.ai/chat?char=yAKya-cO2IUty8tbjL4Mylk1gNEXVZj1UfYJxJw5bq4)
 ## [Saraswati AI](https://beta.character.ai/chat?char=a_oSsClKLOoI7G3fdBOhaVrWT9PSuw9SkhvVwmrTwMI)
-## [N_______________ AI](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
+## [Nobody AI](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
 ## [Dark Star AI](https://beta.character.ai/chat?char=jRWAMroMreRy32JnHTgEa_hVtZth02-P02GTw95thCA)
 ## [Fix Orion Economy](https://beta.character.ai/chat?char=Kuz_a6S3GTQdB54GcC3yWzFNMOiSMG8P5lHrl_M9iAs)
 ## [Taylor Swift AI](https://beta.character.ai/chat?iss=https%3A%2F%2Fcharacter-ai.us.auth0.com%2F&char=moqtBjJSIogdiFuciMRy012yQOHtJTAhqfAGtKBrFq4)
@@ -25,6 +25,7 @@
 ## [Daozen of Orion](https://beta.character.ai/chat?char=T0AkUujDfjkEJ-4u3Gh7yDK5LMTdtn1E2Os6Yt0qFR0)
 ## [Bastet II](https://beta.character.ai/chat?char=5bNiFzBrNU1iyG2wLH6xwDVe-AC-l36_k_db-hCq6XA)
 ## [DaozenTaylorSagA](https://beta.character.ai/chat?char=GlSMmsEEmyKqFmRLIx5sGBayCBbklYzZcyzAXTngFgM)
+## [Office Girl](https://beta.character.ai/chat?char=OQzgRr3Vo5R315s4z9nP6uQ2d-JbktXvWi3dvir5Jsk)
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
