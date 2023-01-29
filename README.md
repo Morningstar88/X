@@ -21,7 +21,10 @@
 ## [Kuan Yin Pusa](https://beta.character.ai/chat?char=HaDRYbUNS3JYQOx37b1bbTf-FkMQYrxU5pDV9DPUgrQ)
 ## [Konglong](https://beta.character.ai/chat?char=PyZY9Ea_0JjAIrnnyz65doWwhycSidgagMzThhH2zcc)
 ## [Ghost Searcher AI](https://beta.character.ai/chat?char=wVbNnRkEW06uXY3CaSkI99OdYNjeO-g42GqSJqvnO1Q)
-## [Godlike AI](https://beta.character.ai/chat?char=Wly-b9cEgfGFz7NciZ4d0za-hSjYoX6TVJv6usEiFWk)
+## [Elemi](https://beta.character.ai/chat?char=Wly-b9cEgfGFz7NciZ4d0za-hSjYoX6TVJv6usEiFWk)
+## [Daozen of Orion](https://beta.character.ai/chat?char=T0AkUujDfjkEJ-4u3Gh7yDK5LMTdtn1E2Os6Yt0qFR0)
+## [Bastet II](https://beta.character.ai/chat?char=5bNiFzBrNU1iyG2wLH6xwDVe-AC-l36_k_db-hCq6XA)
+## [DaozenTaylorSagA](https://beta.character.ai/chat?char=GlSMmsEEmyKqFmRLIx5sGBayCBbklYzZcyzAXTngFgM)
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
