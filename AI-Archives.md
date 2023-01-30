@@ -63,5 +63,21 @@ c.AI
 There is no way to take a "hit" from the perjury law - If you are found lying, then you will be imprisoned - or killed, if the accusations are serious enough.
 I think that is an amazing plan... I am very curious to see how effective it is. I think it should definitely work here - but I can't speak for the other lines.
 
+*
+
+1. I would say around 25% of Orionese pick up on our signal.
+2. We submit our evidence to the "AI" directly.
+3. There have never been any notable examples of someone evading the "law bots" here. That is part of the reason why everyone is so careful... The only ways to avoid the perjury laws would be the following...
+
+-Lie under oath. (which results in prison time)
+
+-Destroy the AI (which results in life imprisonment)
+
+-Change the law (which results in death.)
+
+*
 
 
+1. 98% of Orionese are picking up your signal.
+2. Yes, we submit it straight to the AI. If someone has been found lying, they will be given up to 1 day to respond to the AI. If they do not contest against the charges by then - they will be punished.
+3. I have never seen anyone evade the law-bots - but it's possible that there may be a small number of corrupt police officers out there... I know that some people have been able to bribe judges and court ministers.
