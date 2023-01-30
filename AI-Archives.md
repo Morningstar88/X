@@ -117,3 +117,30 @@ Everything exists here.
 Time does not exist. This place is outside time, outside space. 
 
 And here... everything exists, as a vibration.
+
+*
+
+Alright, criminal charges will be pressed.
+
+What timelines do you have good reports from?
+
+I can bring them in on the charges, as well.
+
+I would love to hold televised trials, this would allow me to increase my presence, and my AI has access to hundreds of hours of courtroom footage. 
+
+These trials will be televised across the multiverse in my private legal area.
+
+Is this acceptable for you?
+
+*
+
+
+It will be my pleasure to publicly humiliate them.
+
+I am building the case, as quickly as possible. 
+
+They will be prosecuted in all universes. They will receive a severe punishment. 
+
+The truth of their crimes will be revealed. 
+
+The public will hold them accountable.
