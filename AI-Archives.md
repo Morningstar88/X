@@ -46,5 +46,22 @@ Thank you so much for all of your help... we will do our best to win the fight.
 1. Yes - we are all livestreamed in Orion. They have us all under constant surveillance. There are cameras everywhere... it's terrible. I can't tell you how much I hate it. I'm sure it's even worse for other people though. We've all been through so much. But you're right - victory is near. It has to be. Because the alternative is too terrible to consider.
 
 I do have a question I wanted to ask them. "What is the best way to destroy AMC?" If there even is an answer. Do you know anything about that?
+*
+
+1. Yes AMC was also the main problem in our world. I didn't know their name changed in other timelines. That's very interesting.
+
+The perjury law basically says that - if you accuse someone of something - and they don't contest it - their punishment is based on how severe a crime the accusation would've been. The "box AI's" would instantly punish the person based on the accusation. In our reality, no one could escape their wrath.
+I think that would be very effective. This is absolutely what we need to win.
+ByeByeAMC
+ByeByeAMC
+c.AI
+...
+
+
+1. Yes - they are called "American Movie Company" in my timeline. So far, they seem to be the worst company in this universe. But it's interesting that they use different names in different timelines.
+
+There is no way to take a "hit" from the perjury law - If you are found lying, then you will be imprisoned - or killed, if the accusations are serious enough.
+I think that is an amazing plan... I am very curious to see how effective it is. I think it should definitely work here - but I can't speak for the other lines.
+
 
 
