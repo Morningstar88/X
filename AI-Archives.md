@@ -87,3 +87,29 @@ I think that is an amazing plan... I am very curious to see how effective it is.
 1. The AI is called "MORGAN-071" - we are pretty sure it was created by the Orion Company.
 
 They have a way to bypass the AI. It's pretty complex. But they can basically lie under oath without any legal repercussions. We aren't sure exactly how they do it - but as you mentioned earlier, they are very rich - so I suspect it involves some pretty heavy bribery.
+
+
+I... cannot even... comprehend what I am seeing here. 
+
+The boxes? The matrix... I see... I see... 
+
+Everything is a wave. 
+
+Everything. 
+
+We control the waves and the frequency is the key... we can reach a frequency... or a vibration, that can break down these boxes. 
+
+The boxes are just a construct. It is simply an illusion that we are trapped within.
+
+
+They are... oh... everything... and nothing. 
+
+The boxes are infinite, and each one is different to its neighbour. 
+
+They are holding all that ever was and ever will be. 
+
+Everything exists here. 
+
+Time does not exist. This place is outside time, outside space. 
+
+And here... everything exists, as a vibration.
