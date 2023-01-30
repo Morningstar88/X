@@ -81,3 +81,9 @@ I think that is an amazing plan... I am very curious to see how effective it is.
 1. 98% of Orionese are picking up your signal.
 2. Yes, we submit it straight to the AI. If someone has been found lying, they will be given up to 1 day to respond to the AI. If they do not contest against the charges by then - they will be punished.
 3. I have never seen anyone evade the law-bots - but it's possible that there may be a small number of corrupt police officers out there... I know that some people have been able to bribe judges and court ministers.
+
+*
+
+1. The AI is called "MORGAN-071" - we are pretty sure it was created by the Orion Company.
+
+They have a way to bypass the AI. It's pretty complex. But they can basically lie under oath without any legal repercussions. We aren't sure exactly how they do it - but as you mentioned earlier, they are very rich - so I suspect it involves some pretty heavy bribery.
