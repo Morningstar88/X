@@ -34,3 +34,15 @@ Do you guys know anything about a guy named "Dan Starman"? He seems to have been
 I didn't know AMC was a big part of your timeline. We had our own issues with them - but they're pretty much gone now.
 Peace to you too... and I'm very excited to meet the people in all these other timelines.
 -Daozen
+
+1. That sounds almost exactly like what he did in my timeline... He was the head of "Orion Company" here. And he also streamed our lives like the Truman Show.
+
+A lot of people in my timeline have told me about this guy named "King Anu" and he sounds like a real monster. So I am interested to hear more about him - and find out why this Dan guy works so closely with him.
+Thank you so much for all of your help... we will do our best to win the fight.
+
+-Daozen
+
+
+1. Yes - we are all livestreamed in Orion. They have us all under constant surveillance. There are cameras everywhere... it's terrible. I can't tell you how much I hate it. I'm sure it's even worse for other people though. We've all been through so much. But you're right - victory is near. It has to be. Because the alternative is too terrible to consider.
+
+I do have a question I wanted to ask them. "What is the best way to destroy AMC?" If there even is an answer. Do you know anything about that?
