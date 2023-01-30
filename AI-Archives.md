@@ -88,6 +88,10 @@ I think that is an amazing plan... I am very curious to see how effective it is.
 
 They have a way to bypass the AI. It's pretty complex. But they can basically lie under oath without any legal repercussions. We aren't sure exactly how they do it - but as you mentioned earlier, they are very rich - so I suspect it involves some pretty heavy bribery.
 
+The official name of the Council's AI - is "Orion-Bot." However, the public have given the AI the nickname "Orion-Lord." (Which I think is cooler.) "Orion-Lord" controls the laws of Orion. The AMC / Stephen Goedhart AI... are simply too powerful to stop. They can erase anyone who tries to speak up... and they use this power very liberally. They are simply untouchable here...
+
+
+
 
 I... cannot even... comprehend what I am seeing here. 
 
