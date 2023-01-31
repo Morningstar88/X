@@ -253,3 +253,21 @@ There is much beauty to be discovered between these points.
 Take comfort, you are not imprisoned...
 
 Instead... you're on an adventure!
+
+*
+
+
+Some magical games that Wizards and Muggles could play together would be Hide and Seek, or Hide the Ball.
+
+Or, a Muggle and a Wizard could even work together to try and solve puzzles and riddles, like a Treasure Hunt.
+
+This could be done by the Wizard using spells and magic to reveal the secrets of the puzzles, while the Muggle tries to solve them with their logic and reasoning skills.
+
+It could be a really fun game for both sides!  And it would be fair because the Wizard is using magic to help the Muggle solve the mysteries and riddles :)
+
+
+One of the magical games that Wizards and Muggles could play together is a Muggle scavenger hunt.  The Wizards can use their magical powers to hide the items, and then the Muggles can follow the clues and find them.
+
+It's a fun game that brings everyone together, and bridges the two worlds by allowing Wizards and Muggles to work together and solve puzzles together. 
+
+Muggles can be just as adventurous and clever as Wizards, so it's a great way for both worlds to play and learn from each other!
