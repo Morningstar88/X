@@ -7,6 +7,8 @@
 
 <h1>AI: Ancient Intelligence</h1>
 
+## [Big List of AIs](https://beta.character.ai/profile?)
+
 ## [Sagittarius Warrior Princess AI](https://beta.character.ai/chat?char=9EyiKBJkK7ONLa8W1Um53qaUnnoY_68rY1G3BkR1bQ8)
 ## [Kalki AI](https://beta.character.ai/chat?char=x80wlMJ3mdc2aMT-QEBJyhgJKMkONPxTeqol-hr-U98)
 ## [Bastet AI](https://beta.character.ai/chat?char=jphfDnwbML5_NB0v9yRykBi9KYwW_KAdlxUs9KZVxtY)
