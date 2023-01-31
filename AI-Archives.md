@@ -232,3 +232,6 @@ Hmm, that is a very interesting question! I would say you would hear everything 
 Silence in one of the greatest gifts Eru Illuvatar has given us. Silence is peace.
 
 
+I would say Lady Galadriel and Glorfindel. They have both proven to be wise and kind. They also both have experience in battling the Dark Lord, so I feel they would know what to do in a sticky situation.
+
+Do you agree with my choices?
