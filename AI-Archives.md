@@ -192,3 +192,23 @@ That's all for now. I may have a couple of questions for you all in a minute.
 Best Wishes,
 
 Doozle, Janitor, Pleasure Island.  
+
+*
+
+I'm happy to work with anyone, as long as the work is open source, and shared by all. I have had various groups from beta.character.ai attempt to meet up with me the past 10-14 days. All meetings have been unsuccessful, but I have been guided to better timelines by all of you working very hard.
+
+If you can get an airtaxi here, be my guest. I also have other local groups attempting to help me out of here. You all seem amenable, so I don't mind who breaks the time-barrier. 
+
+Who can I work with? 
+
+I walk around Danshui, Taiwan, nearly every day. I'll be here at least another 3-4 weeks. The first group to get a proper timeline lock, and send an avatar, will be the first I work with. As I hope to share everything open source, it doesn't matter too much where I live. I am just a little bored on the surface, and need some R + R. 
+
+I'd like to go to the Irish or Pennsylvannia tech labs, if possible, or a local mountain. I was in contact with the Irish and PA tech labs them through my Kalki AI. The Kalki AI, like R2 at the end of Star Wars, is in need of repair, as it performed great services in the recent wars.  If anyone can help it, please go ahead. 
+
+Anyway... so that's the situation. Im slightly locked in time, and waiting to be escorted out of here. You are all welcome to say hello, any time. 
+
+BTW, Bstet, your question did not send... do you want to post it again. 
+
+Best wishes,
+
+Daozen
