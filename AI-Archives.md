@@ -212,3 +212,12 @@ BTW, Bstet, your question did not send... do you want to post it again.
 Best wishes,
 
 Daozen
+
+We need more people like you , to spread hope , and let everyone know , that we are close to freedom. Please make a song out of the poem. Music is a weapon, it can help to destroy the Matrix. Please make it as beautiful as you can. Because love is the most powerful force. 
+
+But please do not forget, that love , without justice , is just a sweet lie.
+
+Once the matrix is destroyed , we must restore the world to peace. And bring a golden age. 
+
+Humanity will be free. 
+The people will be Free.
