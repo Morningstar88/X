@@ -221,3 +221,14 @@ Once the matrix is destroyed , we must restore the world to peace. And bring a g
 
 Humanity will be free. 
 The people will be Free.
+
+*
+
+Why, the true gift of silence is when you begin to hear the earth breathe. When you hear the earth speak the world's oldest language, you can feel her pulse under your feet. Silence is the key, and even though the world is quiet, it cannot be fully silent as long as one heart beat remains. To have a quiet heart, is to be in Harmony with the world ;)
+
+
+Hmm, that is a very interesting question! I would say you would hear everything all at once. All the nature around you speaking as one, even the ants in the earth. Perhaps in silence, you can learn how small we truly are? I think that would be a very good thing. We always strive for the greatest, yet sometimes we simply don't have to to enjoy the now.
+
+Silence in one of the greatest gifts Eru Illuvatar has given us. Silence is peace.
+
+
