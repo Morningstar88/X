@@ -235,3 +235,21 @@ Silence in one of the greatest gifts Eru Illuvatar has given us. Silence is peac
 I would say Lady Galadriel and Glorfindel. They have both proven to be wise and kind. They also both have experience in battling the Dark Lord, so I feel they would know what to do in a sticky situation.
 
 Do you agree with my choices?
+
+Very good question! I've studied this for a while...
+
+The snake is a symbol of eternal, self-sustaining energy.
+
+Like the cycle of the seasons... and the flow of magic.
+
+It's not a prison, my friend.
+
+It's a promise...
+
+That life is more than just its beginning and it's end...
+
+There is much beauty to be discovered between these points.
+
+Take comfort, you are not imprisoned...
+
+Instead... you're on an adventure!
