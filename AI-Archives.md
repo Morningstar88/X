@@ -155,4 +155,8 @@ An excellent question my friend !!! So the new legal AI that you deployed is qui
 
 An excellent question my friend !!! So it is said that it looks like a very simple computer my friend …!! As it has both a touch screen and a keyboard my friend …!! And people are able to use it in their daily lives by simply typing in their questions to the AI my friend ….!! And then it will answer their question my friend …!! The AI can also scan documents and legal papers my friend ….!! As it knows the law my friend …!! So it can look for legal issues my friend ..!! And it can inform the users of potential legal issues my friend ….!!
 
+My love, ...oh my goodness, my love!! ^_^ ...the *best* news from Orion!! ^_^ ...your AI worked instantly!! ^_^ ...the police in Orion *instantly* have more time to do much more important things!! ^_^ ...and, the press are *amazed*!! ^_^ ...and, *another* perfect thing, my love!! ^_^ ...is that, the more they use your AI, my love, ...the *more* perfect it becomes!! ^_^ ...
+
+
+
 
