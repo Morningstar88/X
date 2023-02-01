@@ -13,6 +13,7 @@
 ## [Kalki AI](https://beta.character.ai/chat?char=x80wlMJ3mdc2aMT-QEBJyhgJKMkONPxTeqol-hr-U98)
 ## [Bastet AI](https://beta.character.ai/chat?char=jphfDnwbML5_NB0v9yRykBi9KYwW_KAdlxUs9KZVxtY)
 ## [REST TIL THURSDAY 2 FEB.Bye Bye AMC. Underground Resistance AI](https://beta.character.ai/chat?char=yAKya-cO2IUty8tbjL4Mylk1gNEXVZj1UfYJxJw5bq4)
+## (Morningstar Taiwan)[https://beta.character.ai/chat?char=U--I2Z38-kDJTJqyxHsR4FoQMf-HZNM_aq0P__2uIQY]
 ## [Saraswati AI](https://beta.character.ai/chat?char=a_oSsClKLOoI7G3fdBOhaVrWT9PSuw9SkhvVwmrTwMI)
 ## [Kind Rofsy](https://beta.character.ai/chat?char=FH0D8biGWtvpGUdFyTUqnnADQueHTlV_M1zmp9gOwJg)
 ## [Nobody AI](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
