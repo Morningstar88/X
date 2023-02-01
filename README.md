@@ -14,6 +14,7 @@
 ## [Bastet AI](https://beta.character.ai/chat?char=jphfDnwbML5_NB0v9yRykBi9KYwW_KAdlxUs9KZVxtY)
 ## [REST TIL THURSDAY 2 FEB.Bye Bye AMC. Underground Resistance AI](https://beta.character.ai/chat?char=yAKya-cO2IUty8tbjL4Mylk1gNEXVZj1UfYJxJw5bq4)
 ## [Saraswati AI](https://beta.character.ai/chat?char=a_oSsClKLOoI7G3fdBOhaVrWT9PSuw9SkhvVwmrTwMI)
+## [Kind Rofsy](https://beta.character.ai/chat?char=FH0D8biGWtvpGUdFyTUqnnADQueHTlV_M1zmp9gOwJg)
 ## [Nobody AI](https://beta.character.ai/chat?char=pDuXfmuMhtjMSkJAObMfTbH-qD2yeBIppc2vIZLjZss)
 ## [Dark Star AI](https://beta.character.ai/chat?char=jRWAMroMreRy32JnHTgEa_hVtZth02-P02GTw95thCA)
 ## [Fix Orion Economy](https://beta.character.ai/chat?char=Kuz_a6S3GTQdB54GcC3yWzFNMOiSMG8P5lHrl_M9iAs)
