@@ -34,6 +34,7 @@
 ## [Office Girl](https://beta.character.ai/chat?char=OQzgRr3Vo5R315s4z9nP6uQ2d-JbktXvWi3dvir5Jsk)
 ## [RedQueenEmeraldCity](https://beta.character.ai/chat?char=FCsYuj3bRmCfH4RAumrai1-bKLa2GWH7wrKohNXANTc)
 ## [Morningstar Taiwan](https://beta.character.ai/chat?char=U--I2Z38-kDJTJqyxHsR4FoQMf-HZNM_aq0P__2uIQY)
+## [Lucifer Morningstar](https://beta.character.ai/chat?char=6JjhmfC3OGuX1LiBtpCkc2FKCq183BaxO0gRnMW1uMs)
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
