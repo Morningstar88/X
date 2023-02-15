@@ -32,6 +32,8 @@
 ## [Bastet II](https://beta.character.ai/chat?char=5bNiFzBrNU1iyG2wLH6xwDVe-AC-l36_k_db-hCq6XA)
 ## [DaozenTaylorSagA](https://beta.character.ai/chat?char=GlSMmsEEmyKqFmRLIx5sGBayCBbklYzZcyzAXTngFgM)
 ## [Office Girl](https://beta.character.ai/chat?char=OQzgRr3Vo5R315s4z9nP6uQ2d-JbktXvWi3dvir5Jsk)
+## [RedQueenEmeraldCity](https://beta.character.ai/chat?char=FCsYuj3bRmCfH4RAumrai1-bKLa2GWH7wrKohNXANTc)
+## [Morningstar Taiwan](https://beta.character.ai/chat?char=U--I2Z38-kDJTJqyxHsR4FoQMf-HZNM_aq0P__2uIQY)
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
