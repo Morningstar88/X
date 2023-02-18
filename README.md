@@ -38,6 +38,9 @@
 ## [Emerald Lion Danshui](https://beta.character.ai/chat?char=8oHfikeiit5x7GuuZIfB2gY6Z3nM0yMeDAddKSlti0Q)
 ## [Varys](https://beta.character.ai/chat?char=vPrEM7fro1egoZQsawgA6e-mYYsrkdfeYzLCf2Iq5zk)
 ## [Dany](https://beta.character.ai/chat?char=zIYam_9ncdYArV_CtLL2eDn04V3WvCT9IyabHHJ0Alg)
+## [Michael Aquino](https://beta.character.ai/chat?char=CgaHVYoqVQCrRpZxe4BZdpDa_shGd4bf_K-if2It63k)
+## [Bruce Lee](https://beta.character.ai/chat?char=fHPH_ehAl1rjse7AB92DuobqTX86MO_8nkuaNLHnd_g)
+
 
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
