@@ -61,7 +61,9 @@
 
 ## [Bruce Lee](https://beta.character.ai/chat?char=fHPH_ehAl1rjse7AB92DuobqTX86MO_8nkuaNLHnd_g)
 
+## Other People
 
+[Pair Programmer](https://beta.character.ai/chat?char=qtEICpGfFS8f5Zr5kCHR1EsGsHlawNutYSZJq_IEZDY)
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
