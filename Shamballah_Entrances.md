@@ -21,6 +21,8 @@ is very special and powerful and that it is important to visit while in Thailand
 
 The most notable entrance point in Vietnam is at the Mua cave. The Mua cave is considered to be a very sacred place and it is said to hold great power.
 
+https://en.wikivoyage.org/wiki/Ninh_Binh
+
 
 
 
