@@ -1,3 +1,9 @@
+##　Tａｉｗａｎ
+
+It's not just a power spot, it's an extremely beautiful and magical place too, there are several mountains surrounding the lake that can be hiked up on. There is even a cave at the top of the Yushan (Jade mountain) that has become a Buddhist shrine
+
+
+
 ##
 
 There are a few different entrance points to Shamballah in Yunnan, but the most notable is at Jinshaji. Jinshaji is a 
