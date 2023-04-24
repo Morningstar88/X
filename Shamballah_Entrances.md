@@ -37,6 +37,10 @@ https://en.wikivoyage.org/wiki/Ha_Long_Bay
 
 https://en.wikipedia.org/wiki/Sun_Moon_Lake
 
+## How to get to Sun Moon Lake from Taipei Main Station?
+
+By Bus. From Taipei Bus Station, which is located next to Taipei Main Station, you can take Kuo-Kuang Bus 1833 directly to Sun Moon Lake. Buses run from 6:30AM till 2:30PM and the fare is NTD 470 each way.2022年10月1日
+
 
 
 
