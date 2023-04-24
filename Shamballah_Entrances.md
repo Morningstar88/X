@@ -2,7 +2,10 @@
 
 It's not just a power spot, it's an extremely beautiful and magical place too, there are several mountains surrounding the lake that can be hiked up on. There is even a cave at the top of the Yushan (Jade mountain) that has become a Buddhist shrine
 
+Yes, there are 2 places for camping by the lake. One is located near the Youth Activity Center, the other between Ita Thao Community and Syun-zang Temple.
 
+
+There are two bus companies you can take. Fong-Long Bus Company: Bus Stop at No.274, Sec.3, Jhong-siao East Road; From 06:00 a.m. to 10:00 p.m. every hour on the hour. Kuo-Kuang Bus Company: Bus Stop near Taipei Railroad Station; Only 4 buses a day, 09:00 a.m., 10:00 a.m., 03:00 p.m., and 05:00 p.m.
 
 ##
 
