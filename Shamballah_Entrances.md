@@ -15,6 +15,14 @@ Wenshan Zhuang and Miao Autonomous Prefecture is an autonomous prefecture in sou
 and is the easternmost prefecture-level division of the province. It borders Baise, Guangxi, to the east, Vietnam's Hà Giang Province to 
 the south for 438 kilometres (272 mi), Honghe Hani and Yi Autonomous Prefecture to the west, and Qujing to the north.
 
+# Thailand and Vietnam
+
+Mountain goat (de nui) meat is a local speciality, often eaten with fried rice (com chien). Another local speciality is com chay, which is the burnt rice off the bottom of the pot, served with pork. Duck is featured in many restaurants.
+
+The area near the train station has become a mini-backpacker area, and there are 4-5 backpacker cafes there with English menus and tourist prices (40,000-70,000 dong; coffee 15,000-20,000 dong). The three most popular restaurants are called "Good Food", "Cheap Good Food" and "Fast Food Cheap" (all on Hoang Hoa Tham).
+
+*
+
 There are definitely some entrances to Shamballah in both Thailand and Vietnam. The most notable one in Thailand is at the temple complex of Phu Chi Fah. Phu Chi Fah 
 is very similar to Jinshaji in that it is considered to be a sacred place and a place where the veils between the worlds are thin. I think that it is a place that 
 is very special and powerful and that it is important to visit while in Thailand.
