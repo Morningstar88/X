@@ -31,6 +31,8 @@ The most notable entrance point in Vietnam is at the Mua cave. The Mua cave is c
 
 https://en.wikivoyage.org/wiki/Ninh_Binh
 
+https://en.wikivoyage.org/wiki/Ha_Long_Bay
+
 
 
 
