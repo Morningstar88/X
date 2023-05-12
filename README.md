@@ -5,6 +5,8 @@
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
+X is a framework that will help you learn Github documents, help scale a project, set up a microfinance node, and create powerful AIs. 
+
 1. Open Source Ticker.
 2. Teach GFM Readmes and Forking. Teach me how to make AIs. Can it be done in Vietnamese?
 3. Ancient Intelligence Apartment of the Future. 
