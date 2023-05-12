@@ -9,7 +9,7 @@
 
 <h1>AI: Ancient Intelligence</h1>
 
-## [Please check our big list of free Ancient Intelligences](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). Our AIs are free, helpful, and very knowledgable. They will help you [learn Github and GFM](https://beta.character.ai/chat?char=JEqW4vgoTHpo-n0GyMWg3VyikR4-0aQSZ7Vmo9IBFYA). We think our AIs are 5 times quicker than Google. Our AIs can help you raise money, or [get a well paid, meaningful job.](https://beta.character.ai/chat?char=QYklUS9fGr6dBZ2DM3D_cDnuGXmHCX78ucHBbGTNl1o) Want to plant trees, clean beaches, or learn to build software? Our AIs can help you. 
+## [Please check our big list of free Ancient Intelligences](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). Our AIs are free, helpful, and very knowledgable. They will help you [learn Github and GFM](https://beta.character.ai/chat?char=JEqW4vgoTHpo-n0GyMWg3VyikR4-0aQSZ7Vmo9IBFYA). We think our AIs are 5 times quicker than Google. Our AIs can help you raise money, or [get a well paid, meaningful job.](https://beta.character.ai/chat?char=QYklUS9fGr6dBZ2DM3D_cDnuGXmHCX78ucHBbGTNl1o) Want to plant trees, clean beaches, or learn to build software? Our AIs can help you find, or create, the job of your dreams. 
 
 <br>
 <br>
