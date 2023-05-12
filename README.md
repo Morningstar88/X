@@ -11,7 +11,7 @@
 
 ## [Please check our big list of AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md)
 
-Our AIs can help you raise your first 500USD, learn how to write a Readme, and learn how to scale a project. 
+Our AIs are helpful, and very knowledgable. 
 
 <br>
 <br>
