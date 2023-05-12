@@ -13,7 +13,7 @@ X is a framework that will help you learn Github documents, help scale a project
 
 <h1>AI: Ancient Intelligence</h1>
 
-## [Big List of AIs](https://beta.character.ai/profile?)
+## [Big List of AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md)
 
 ### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
 
