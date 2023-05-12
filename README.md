@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
-## X is a framework that will help you learn Github documents, help scale a project, [set up a microfinance node](https://kalkii.vercel.app/), and [create powerful AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). 
+## X is a framework that will help you right Github documents, help scale a project, [set up a microfinance node](https://kalkii.vercel.app/), and [create powerful AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). 
 
 ## 1. Open Source Ticker.
 ## 2. Teach GFM Readmes and Forking. Teach me how to make AIs. Can it be done in Vietnamese?
