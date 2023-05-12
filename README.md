@@ -9,9 +9,7 @@
 
 <h1>AI: Ancient Intelligence</h1>
 
-## [Please check our big list of AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md)
-
-Our AIs are helpful, and very knowledgable. 
+## [Please check our big list of free Ancient Intelligences](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). Our AIs are free, helpful, and very knowledgable. They will help you [learn Github and GFM](https://beta.character.ai/chat?char=JEqW4vgoTHpo-n0GyMWg3VyikR4-0aQSZ7Vmo9IBFYA). 
 
 <br>
 <br>
