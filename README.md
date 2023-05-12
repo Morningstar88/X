@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<h1 align="center">Raise Your First 500USD </h1>
+<h1 align="center">Raise Your First 500USD, Create a well paid job </h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
