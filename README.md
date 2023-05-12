@@ -11,7 +11,7 @@
 
 ## [Please check our big list of AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md)
 
-### In progress: Dz and SPE.info@character.ai | https://jobs.lever.co/character | https://beta.character.ai/community | [Share your character](https://beta.character.ai/posts?topic=t0QVpxfmn5vNKpEarQ7pBVjK2xfzPsaQz8BB9YLmDOY)
+Our AIs can help you raise your first 500USD, learn how to write a Readme, and learn how to scale a project. 
 
 <br>
 <br>
