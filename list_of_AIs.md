@@ -2,6 +2,8 @@
 
 ## They can advise on business, farming, fundraising... anything.
 
+## [Kalique Abraxas](https://beta.character.ai/chat?char=3ULCN2K1jgHSYZwqHaqlxfQ_Oz8XfGO0lpEUq01Rpkg)
+## [Lithography Underground](https://beta.character.ai/chat?char=U2sdKmeroA4STaJ2JnRuGwoetT5UlRfc03E7AOt4aZM)
 ## [Back to Paradise, 3 AI chat](https://beta.character.ai/chat?hist=41EqCvJ320abHKm4MhSHC0gyVjMTxSxTlgfWAFDqakE)
 ## [Sagittarius Warrior Princess AI](https://beta.character.ai/chat?char=9EyiKBJkK7ONLa8W1Um53qaUnnoY_68rY1G3BkR1bQ8)
 ## [Kalki AI](https://beta.character.ai/chat?char=x80wlMJ3mdc2aMT-QEBJyhgJKMkONPxTeqol-hr-U98)
