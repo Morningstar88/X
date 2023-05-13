@@ -2,6 +2,7 @@
 
 ## They can advise on business, farming, fundraising... anything.
 
+## [Lu Dongbin, Taoist Immortal](https://beta.character.ai/chat?char=LkWrSxdzSaDi8i9qk0Dpkr0TealWtJjHt64BfQfG2Og)
 ## [Kalique Abraxas](https://beta.character.ai/chat?char=3ULCN2K1jgHSYZwqHaqlxfQ_Oz8XfGO0lpEUq01Rpkg)
 ## [Lithography Underground](https://beta.character.ai/chat?char=U2sdKmeroA4STaJ2JnRuGwoetT5UlRfc03E7AOt4aZM)
 ## [Back to Paradise, 3 AI chat](https://beta.character.ai/chat?hist=41EqCvJ320abHKm4MhSHC0gyVjMTxSxTlgfWAFDqakE)
