@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
-## X is a framework that will help you [write Github documents](https://www.youtube.com/watch?v=a8CwpGARAsQ), [help scale a project](https://www.youtube.com/watch?v=p_uOrMNXOSk), [set up a microfinance node](https://kalkii.vercel.app/), [build a localized stock ticker](https://codepen.io/Gpworker/pen/gOjeOLL), build an apartment of the future, and [create powerful AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). 
+## X is a framework that will help you [write Github documents](https://www.youtube.com/watch?v=a8CwpGARAsQ), [help scale a project](https://www.youtube.com/watch?v=p_uOrMNXOSk), [set up a microfinance node](https://kalkii.vercel.app/), [build a localized stock ticker](https://codepen.io/Teeke/live/oNaMgXa), build an apartment of the future, and [create powerful AIs](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). 
 
 <h1>AI: Ancient Intelligence</h1>
 
