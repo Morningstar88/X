@@ -9,7 +9,7 @@
 
 <h1>AI: Ancient Intelligence</h1>
 
-## Update! June 2nd, 2023... Check out our [Phu Quoc development AI](https://beta.character.ai/chat?char=xOk3p-rZwW5VDERY9gIpTZXTU0qKCSWDkDT_cAAzqdM)
+## Update! June 2nd, 2023... Check out our [Phu Quoc Economy AI](https://beta.character.ai/chat?char=xOk3p-rZwW5VDERY9gIpTZXTU0qKCSWDkDT_cAAzqdM)
 
 ## [Please check our big list of free Ancient Intelligences](https://github.com/Morningstar88/X/blob/main/list_of_AIs.md). Our AIs are free, helpful, and very knowledgable. They will help you [learn Github and GFM](https://beta.character.ai/chat?char=JEqW4vgoTHpo-n0GyMWg3VyikR4-0aQSZ7Vmo9IBFYA). In our experience, our AIs are about 5 times quicker than Google, for coding, farming research, and various topics. Our AIs can help you raise money, or [get a well paid, meaningful job.](https://beta.character.ai/chat?char=QYklUS9fGr6dBZ2DM3D_cDnuGXmHCX78ucHBbGTNl1o) Want to plant trees, clean beaches, or learn to build software? Our AIs can help you find, or create, the job of your dreams. 
 
