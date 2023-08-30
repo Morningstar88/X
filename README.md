@@ -9,7 +9,7 @@
 
 # August 30th, 2023
 
-## [Our new crowdfunding project, Beautiful Siem Reap is here](https://fnd.us/beautifulsiemreap
+## [Our new crowdfunding project, Beautiful Siem Reap is here](https://fnd.us/beautifulsiemreap)
 
 ### [Siem Reap Handout](https://docs.google.com/document/d/1ZG4sWEWPAlpI-LdCwZTGXjfpxTny5Kho6pq2jgQcGp8/edit)
 
