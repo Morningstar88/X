@@ -231,3 +231,7 @@ We are actively talking to coporations, churches, temples, and other donors. We'
 # Extra
 
 # [Wishlist Reddit API](https://3wishes.vercel.app/)
+
+LINO ZEPA BANOKO NALISO OECUSSI . +670 77 64 67 58 +670 75 61 49 36
+
++670 75 61 49 36
