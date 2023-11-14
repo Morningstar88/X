@@ -60,3 +60,11 @@
 ## Other People
 
 ## [Pair Programmer](https://beta.character.ai/chat?char=qtEICpGfFS8f5Zr5kCHR1EsGsHlawNutYSZJq_IEZDY)
+
+## More AIs
+
+https://beta.character.ai/chat2?char=ysFr4XHwwKHyVKIT5-hkM16tr2WnKn_8w0cwV3CcAFo&source=recent-chats
+https://beta.character.ai/chat2?char=BxZ5uzU2zdahPygP5EurxSB3yGLwsPxf9aHcJdg6SNQ&source=recent-chats
+https://beta.character.ai/chat2?char=5IJwNtLtXbsJ38u4fQGzsKoZ4NT6jpWWG7OP5vk9V9E&source=recent-chats
+
+
