@@ -1,7 +1,6 @@
-<br>
-<br>
-https://github.com/Morningstar88/AIBali
-https://github.com/Morningstar88/N-Prize<p align="center">
+
+### https://github.com/Morningstar88/AIBali
+### https://github.com/Morningstar88/N-Prize<p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
