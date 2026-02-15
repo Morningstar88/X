@@ -1,5 +1,9 @@
 
 
+# [CONTACT JACK!!!](https://jsfiddle.net/g3pho94j/6/)
+
+##### [Log in X](https://jsfiddle.net/oj7v6x8b/8/)
+
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
